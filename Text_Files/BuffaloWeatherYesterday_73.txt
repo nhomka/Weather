@@ -1,0 +1,1305 @@
+
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<META HTTP-EQUIV="MSThemeCompatible" Content="Yes">
+<meta name="apple-mobile-web-app-title" content="weather.com">
+<link rel="apple-touch-icon" sizes="57x57 72x72" href="http://s.imwx.com/img/mobileweb/layout/TWC_logo_websave-72x72.png"/>
+<link rel="apple-touch-icon" sizes="114x114 144x144" href="http://s.imwx.com/img/mobileweb/layout/TWC_logo_websave-144x144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57 72x72" href="http://s.imwx.com/img/mobileweb/layout/TWC_logo_websave-72x72.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114 144x144" href="http://s.imwx.com/img/mobileweb/layout/TWC_logo_websave-144x144.png"/>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="shortcut icon" type=image/x-icon href="http://www.weather.com/favicon2.ico">
+<script type='text/javascript'>window['optimizely']=window['optimizely']||[];window['optimizely'].push(["setCookieDomain","www.weather.com"]);</script>
+<!-- Page Mode : default -->
+<!-- pageConfig: Container 'null':[Container 'head':[Widget 'null'], Container 'wx-top-wrap':[Reference 'null', Reference 'null', Reference 'null', Reference 'null', Container 'wx-lbox-locsearch':[Reference 'null'], Container 'wx-global-title':[Reference 'null', Reference 'null']], Container 'wx-mid-wrap':[Container 'wx-main':[Container 'wx-inner-rail':[Reference 'null', Reference 'null', Reference 'null', Reference 'null'], Container 'wx-forecast-container':[Reference 'null', Reference 'null', Reference 'null'], Reference 'null', Reference 'null', Reference 'null'], Container 'wx-rail':[Reference 'null', Reference 'null', Reference 'null', Container 'hp_index_teaser_container':[Reference 'null', Reference 'null', Reference 'null'], Reference 'null', Reference 'null', Reference 'null']], Container 'wx-bottom-wrap':[Container 'wx-bottom-bg':[Container 'wx-bottom-inner':[Reference 'null', Reference 'null', Reference 'null']]]] -->
+<!-- id = wx-inner-rail -->
+<!-- FBFLAG:  -->
+<TITLE>14222 Yesterday's Observed Conditions and Temperatures- weather.com </TITLE>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<META name="Description" CONTENT="Yesterday's weather conditions for 14222. The observed temperature and precipication compared to averages and records. ">
+<META name="Keywords" CONTENT="14222 yesterday high temperature, 14222 yesterday low temperature, 14222 yesterday's weather, Yesterday's weather for 14222">
+<meta property="fb:app_id" content="144457238950063">
+<!-- RenderOG:  -->
+<!-- TC Autostart: false -->
+<!-- Jpg: , Png:  -->
+<meta property="og:title" content="Yesterday's Weather for 14222 - weather.com "/>
+<meta property="og:type" content="Website"/>
+<meta property="og:image" content="http://s.imwx.com/img/layout/logo-weather-com.png"/>
+<meta property="og:description" content="Yesterday's observed temperatures and precipitation."/>
+<meta itemprop="name" content="Yesterday's Weather for 14222 - weather.com "/>
+<meta itemprop="image" content="http://s.imwx.com/img/layout/logo-weather-com.png"/>
+<meta itemprop="description" content="Yesterday's observed temperatures and precipitation."/>
+<meta property="og:url" content="http://www.weather.com/weather/yesterday/Buffalo+NY+14222:4:US">
+<meta property="og:site_name" content="The Weather Channel">
+<link rel="canonical" href="http://www.weather.com/weather/yesterday/Buffalo+NY+14222"/>
+<meta property="vr:canonical" content="http://www.weather.com/weather/yesterday/Buffalo+NY+14222"/>
+<link rel="stylesheet" type="text/css" href="http://d.imwx.com/cssRollup?rollup=/cssfiles/wx-reset.css,/cssfiles/wx-text.css,/cssfiles/wx-common.css,/cssfiles/wx-icons.css,/cssfiles/layout/wx-layout.css,/cssfiles/layout/wx-theming.css,/cssfiles/modules/wx-modules.css"/>
+<link rel="stylesheet" type="text/css" href="http://d.imwx.com/cssRollup?rollup=/cssfiles/modules/wx-social-share.css,/cssfiles/layout/plugins/wx-breaking-now.css,,/cssfiles/modules/social/wx-mfw-localalerts.css,/cssfiles/sass/layout/wx-masthead.css,/cssfiles/layout/plugins/wx-event-theming.css,/cssfiles/modules/wx-lbox-locsearch.css,/cssfiles/modules/wx-colorbox.css,/cssfiles/modules/wx-location-title.css,/cssfiles/modules/wx-nav-ls.css,/cssfiles/modules/wx-nav-ls-lifestyles.css,/cssfiles/modules/weather/wx-weather.css,/cssfiles/modules/wx-links.css,/cssfiles/modules/weather/wx-12hour.css,/cssfiles/modules/weather/wx-24hour.css,/cssfiles/modules/weather/wx-yesterday.css,/cssfiles/modules/weather/wx-conditions-map.css,/cssfiles/vendor/jquery-ui-1.10.2-datepicker.css,/cssfiles/modules/wx-datepicker.css,/cssfiles/partners/wu-historical-weather.css,/cssfiles/modules/media/wx-media-player.css,/cssfiles/modules/media/wx-playlist.css,/cssfiles/modules/media/wx-video-player.css,/cssfiles/modules/plugins/wx-modules-custom.css,/cssfiles/modules/articles/wx-article-title-hp-alt.css,/cssfiles/modules/wx-index-teaser.css,/cssfiles/layout/wx-footer.css"/>
+<!-- businessDeclaration : pets -->
+<script>var businessDeclaration="pets";</script>
+<script src="http://d.imwx.com/jsRollup?rollup=/managedfe/js/jquery/jquery-1.7.2-IE7-twccore.min.js,/managedfe/js/TWC/util/ClickTracking.js,/managedfe/js/jquery/plugins/jquery.jqplugin.1.0.2.min.js,/managedfe/js/TWC/util/feature-detect.js"></script>
+<script async src="//cdn.optimizely.com/js/177031030.js"></script>
+<!-- Obtaining ads or pageId: 64272 -->
+<script src="http://d.imwx.com/services/pco?responsive="></script>
+<script src="http://triggers1.weather.com/js/?resp_type=kv"></script>
+<!-- ADDING TEALIUM SCRIPT  -->
+<!-- Loading script asynchronously -->
+<script type="text/javascript">var utag_data={adstest:"",DFP_Network_Code:""}</script>
+<script type="text/javascript">(function(a,b,c,d){a='//tags.tiqcdn.com/utag/weather/main/prod/utag.js';b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);})();</script>
+<!-- ENDING TEALIUM  -->
+<!-- START - AMAZON KEYVALUES INTEGRATION -->
+<!-- amazonKeywordsKillswitchEnabled is not empty; value is: off -->
+<!-- Killswitch is "off"; add Amazon scripts to page, here -->
+<script type='text/javascript' src='http://c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+<script type='text/javascript'>try{amznads.getAds('1004');}catch(e){}</script>
+<!-- END - AMAZON KEYVALUES INTEGRATION -->
+<!-- Start - Criteo Integration -->
+<script type='text/javascript'>var crtg_nid="2305";var crtg_cookiename="cto_weather";var crtg_varname="crtg_content";function crtg_getCookie(c_name){var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';}
+var crtg_content=crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName='+escape(crtg_varname);var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);</script>
+<!-- END - Criteo Integration -->
+<script>TWC.sdynhost="d.imwx.com";TWC.shosttadomain="wxdata.weather.com";</script>
+<!-- Yieldfire call. -->
+<!-- YF Enabled: false -->
+<script>var pcoAd={};pcoAd={"site":"web_weather_us","dynamic":"false","contextual":"","testSite":"test_web_weather_us","keywords":["excl=fcst","tf=local_forecasts","tf=yesterday","lang=en"],"pageIdCode":"yesterday","mode":"default","positions":{"WX_MiniDriver2":{"sizes":[[270,75],[234,60],[300,80]],"keywords":["pos=wx_md2"]},"WX_MiniDriver1":{"sizes":[[270,75],[234,60],[300,80]],"keywords":["pos=wx_md1"]},"WX_PageCounter":{"sizes":[[1,1]],"keywords":["pos=wx_pc"]},"WX_Mid300":{"sizes":[[300,250]],"keywords":["preempt=y","adnet=y","pos=wx_mid300"]},"WX_Video_TopLg":{"sizes":[[640,480]],"keywords":["pos=wx_videotoplg","preroll=true"]},"WX_Video_TopSm_RR":{"sizes":[[640,480]],"keywords":["pos=wx_videotopsm","preroll=true"]},"WX_SocialSevere_3":{"sizes":[[162,35],[190,36],[320,50],[91,24]],"keywords":["pos=wx_socsev","trgt=soc3"]},"WX_SocialSevere_2":{"sizes":[[162,35],[190,36],[320,50],[91,24]],"keywords":["pos=wx_socsev","trgt=soc2"]},"WX_Hidden":{"sizes":[[1,1]],"keywords":["pos=wx_hdn","preempt=y"]},"WX_PaidSearch":{"sizes":[[300,250],[7,7],[600,189],[320,300]],"keywords":["pos=wx_pds"]},"WX_SocialSevere":{"sizes":[[162,35],[190,36],[320,50],[91,24]],"keywords":["pos=wx_socsev","trgt=soc1"]},"WX_Top300Variable":{"sizes":[[300,600],[300,250],[300,1050]],"keywords":["preempt=y","adnet=y","pos=wx_300var","dcopt=ist"]},"WX_Tile1":{"sizes":[[125,125]],"keywords":["preempt=y","pos=wx_t1"]},"WX_Tile2":{"sizes":[[125,125]],"keywords":["preempt=y","pos=wx_t2"]},"WX_WindowShade":{"sizes":[[970,66]],"keywords":["pos=wx_ws"]}},"adContents":{"lawn":{"timestamp":0,"metricLevel3":"homeandfamily","metricLevel4":"lawn","category":"vert","family":"hnf","presName":"Lawn","asiCode":"","contentSection":"lawn","contentType":"lawn","channel":"lawn"},"fish":{"timestamp":0,"metricLevel3":"recreation","metricLevel4":"outdoors","category":"vert","family":"outd","presName":"Fishing","asiCode":"","contentSection":"out","contentType":"fish","channel":"fish"},"himp":{"timestamp":0,"metricLevel3":"homeandfamily","metricLevel4":"homeandfamily","category":"vert","family":"hnf","presName":"Home Improvement","asiCode":"","contentSection":"home","contentType":"himp","channel":"home"},"/ugc/therapy-dog":{"timestamp":0,"metricLevel3":"","metricLevel4":"","category":"","family":"fam","presName":"","asiCode":"","contentSection":"","contentType":"/ugc/therapy-dog","channel":"pets"},"traff":{"timestamp":0,"metricLevel3":"driving","metricLevel4":"interstate","category":"fcst","family":"drv","presName":"Traffic","asiCode":"10045","contentSection":"istate","contentType":"traff","channel":"istate"},"/ugc/weather/snow-and-ice":{"timestamp":0,"metricLevel3":"weather","metricLevel4":"snowandice","category":"vert","family":"brella","presName":"Asset Weather SnowandIce","asiCode":"","contentSection":"undc","contentType":"/ugc/weather/snow-and-ice","channel":"snowandice"},"cold":{"timestamp":0,"metricLevel3":"health","metricLevel4":"coldandflu","category":"fcst","family":"hlth","presName":"Coldandflu","asiCode":"10052","contentSection":"flu","contentType":"cold","channel":"flu"},"pets":{"timestamp":0,"metricLevel3":"health","metricLevel4":"pets","category":"vert","family":"hlth","presName":"Pets","asiCode":"0 ","contentSection":"pets","contentType":"pets","channel":"pets"},"odact":{"timestamp":0,"metricLevel3":"recreation","metricLevel4":"outdoors","category":"vert","family":"outd","presName":"Outdoor Activity","asiCode":"","contentSection":"out","contentType":"odact","channel":"out"},"spts":{"timestamp":0,"metricLevel3":"sports","metricLevel4":"sports","category":"vert","family":"sprts","presName":"Sports","asiCode":"","contentSection":"sprt","contentType":"spts","channel":"sprt"},"/ugc/sports-rec/beach-marine":{"timestamp":0,"metricLevel3":"sports","metricLevel4":"boat and beach","category":"vert","family":"Boat_and_Beach","presName":"Asset Boat and Beach","asiCode":"","contentSection":"bnb","contentType":"/ugc/sports-rec/beach-marine","channel":"boat_and_beach_"},"hunt":{"timestamp":0,"metricLevel3":"recreation","metricLevel4":"outdoors","category":"vert","family":"outd","presName":"Hunting","asiCode":"","contentSection":"out","contentType":"hunt","channel":"hunt"},"btrav":{"timestamp":0,"metricLevel3":"travel","metricLevel4":"businesstraveler","category":"vert","family":"trvl","presName":"Business Travel","asiCode":"","contentSection":"biz","contentType":"btrav","channel":"biz"},"live":{"timestamp":0,"metricLevel3":"climateandgreen","metricLevel4":"livingsmart","category":"fcst","family":"clim","presName":"Living smart","asiCode":"","contentSection":"green","contentType":"live","channel":"green"},"ski":{"timestamp":0,"metricLevel3":"recreation","metricLevel4":"ski","category":"vert","family":"sprts","presName":"Ski","asiCode":"","contentSection":"ski","contentType":"ski","channel":"ski"},"bnb":{"timestamp":0,"metricLevel3":"recreation","metricLevel4":"boatandbeach","category":"fcst","family":"outd","presName":"Boat and beach","asiCode":"10042","contentSection":"algy","contentType":"bnb","channel":"bnb"},"/ugc/weather/seasons":{"timestamp":0,"metricLevel3":"weather","metricLevel4":"seasons","category":"vert","family":"brella","presName":"Asset Weather Seasons","asiCode":"","contentSection":"undc","contentType":"/ugc/weather/seasons","channel":"seasons"},"flt":{"timestamp":0,"metricLevel3":"travel","metricLevel4":"businesstraveler","category":"vert","family":"trvl","presName":"Flight Status","asiCode":"","contentSection":"biz","contentType":"flt","channel":"biz"},"/ugc/news/weather-hurricanes":{"timestamp":0,"metricLevel3":"news","metricLevel4":"hurricanes","category":"vert","family":"severe","presName":"Asset News Hurricanes","asiCode":"","contentSection":"undc","contentType":"/ugc/news/weather-hurricanes","channel":"news"},"/ugc/news/weather-severe":{"timestamp":0,"metricLevel3":"weather","metricLevel4":"severe","category":"vert","family":"severe","presName":"Asset Weather Severe","asiCode":"","contentSection":"undc","contentType":"/ugc/news/weather-severe","channel":"news"},"fam":{"timestamp":0,"metricLevel3":"Family","metricLevel4":"Family","category":"vert","family":"fam","presName":"Family","asiCode":"","contentSection":"fam","contentType":"fam","channel":"fam"},"hlth":{"timestamp":0,"metricLevel3":"health","metricLevel4":"health","category":"vert","family":"hlth","presName":"Health","asiCode":"","contentSection":"hlth","contentType":"hlth","channel":"hlth"},"/ugc/sports-rec/outdoor-activities":{"timestamp":0,"metricLevel3":"recreation","metricLevel4":"outdooractivities","category":"vert","family":"sports_and_rec","presName":"Asset Sports-Rec Outdoor Activities","asiCode":"","contentSection":"undc","contentType":"/ugc/sports-rec/outdoor-activities","channel":"out"},"/ugc/weather/clouds":{"timestamp":0,"metricLevel3":"weather","metricLevel4":"clouds","category":"vert","family":"brella","presName":"Asset Weather Clouds","asiCode":"","contentSection":"undc","contentType":"/ugc/weather/clouds","channel":"clouds"},"/ugc/weather/inthesky":{"timestamp":0,"metricLevel3":"weather","metricLevel4":"inthesky","category":"vert","family":"brella","presName":"Asset Weather IntheSky","asiCode":"","contentSection":"undc","contentType":"/ugc/weather/inthesky","channel":"inthesky"},"undc":{"timestamp":0,"metricLevel3":"undc","metricLevel4":"undc","category":"undc","family":"undc","presName":"Undeclared","asiCode":"","contentSection":"undc","contentType":"undc","channel":"undc"},"home":{"timestamp":0,"metricLevel3":"homeandfamily","metricLevel4":"homeandfamily","category":"vert","family":"hnf","presName":"Home and Family","asiCode":"","contentSection":"hnf","contentType":"home","channel":"hnf"},"pcare":{"timestamp":0,"metricLevel3":"homeandfamily","metricLevel4":"pets","category":"vert","family":"hnf","presName":"Pet Care","asiCode":"","contentSection":"pets","contentType":"pcare","channel":"pets"},"/ugc/family-kids/holidays":{"timestamp":0,"metricLevel3":"family","metricLevel4":"holidays","category":"vert","family":"fam","presName":"Asset Family Kids Holidays","asiCode":"","contentSection":"undc","contentType":"/ugc/family-kids/holidays","channel":"hldy"},"gdn":{"timestamp":0,"metricLevel3":"homeandfamily","metricLevel4":"garden","category":"vert","family":"hnf","presName":"Garden","asiCode":" ","contentSection":"garden","contentType":"gdn","channel":"lawn"},"aches":{"timestamp":0,"metricLevel3":"health","metricLevel4":"pain","category":"fcst","family":"hlth","presName":"Aches and pains","asiCode":"","contentSection":"pain","contentType":"aches","channel":"pain"},"fcst":{"timestamp":0,"metricLevel3":"fcst","metricLevel4":"fcst","category":"fcst","family":"fcst","presName":"fcst","asiCode":"","contentSection":"fcst","contentType":"fcst","channel":"fcst"},"/ugc/travel/driving-fall-foliage":{"timestamp":0,"metricLevel3":"travel","metricLevel4":"driving","category":"vert","family":"trvl","presName":"Asset Driving Fall Foliage","asiCode":"","contentSection":"undc","contentType":"/ugc/travel/driving-fall-foliage","channel":"driving"},"/ugc/outdoor-journey":{"timestamp":0,"metricLevel3":"toyota_3","metricLevel4":"toyota_4","category":"photos","family":"toyota","presName":"toyota_5","asiCode":"1111","contentSection":"toyota","contentType":"/ugc/outdoor-journey","channel":"outjny"},"sun":{"timestamp":0,"metricLevel3":"health","metricLevel4":"beauty","category":"vert","family":"hlth","presName":"Sunsafety","asiCode":"","contentSection":"skin","contentType":"sun","channel":"skin"},"/ugc/weather/sunrise-and-sunset":{"timestamp":0,"metricLevel3":"weather","metricLevel4":"sunriseandsunset","category":"vert","family":"brella","presName":"Asset Weather SunriseandSunset","asiCode":"","contentSection":"undc","contentType":"/ugc/weather/sunrise-and-sunset","channel":"sunrise_sunset"},"trvl":{"timestamp":0,"metricLevel3":"travel","metricLevel4":"travel","category":"vert","family":"trvl","presName":"Travel","asiCode":"","contentSection":"trvl","contentType":"trvl","channel":"trvl"},"fit":{"timestamp":0,"metricLevel3":"health","metricLevel4":"fitness","category":"fcst","family":"hlth","presName":"Fitness","asiCode":"10048","contentSection":"fit","contentType":"fit","channel":"fit"},"cruz":{"timestamp":0,"metricLevel3":"travel","metricLevel4":"cruise","category":"vert","family":"trvl","presName":"Cruise","asiCode":"0000","contentSection":"cruz","contentType":"cruz","channel":"cruz"},"/ugc/weather/storms":{"timestamp":0,"metricLevel3":"weather","metricLevel4":"storms","category":"vert","family":"brella","presName":"Asset Weather Storms","asiCode":"","contentSection":"undc","contentType":"/ugc/weather/storms","channel":"storms"},"/ugc/tv/shows":{"timestamp":0,"metricLevel3":"tv","metricLevel4":"tvshows","category":"vert","family":"tv","presName":"Asset TV Shows","asiCode":"","contentSection":"undc","contentType":"/ugc/tv/shows","channel":"tvshows"},"plln":{"timestamp":0,"metricLevel3":"health","metricLevel4":"allergies","category":"fcst","family":"hlth","presName":"Pollen","asiCode":"10053","contentSection":"plln","contentType":"plln","channel":"algy"},"/ugc/home-and-garden/garden":{"timestamp":0,"metricLevel3":"homeandgarden","metricLevel4":"garden","category":"vert","family":"home_and_garden","presName":"Asset HomeandGarden Garden","asiCode":"","contentSection":"lawn","contentType":"/ugc/home-and-garden/garden","channel":"home"},"golf":{"timestamp":0,"metricLevel3":"recreation","metricLevel4":"golf","category":"vert","family":"sprts","presName":"Golf","asiCode":"","contentSection":"golf","contentType":"golf","channel":"golf"},"schd":{"timestamp":0,"metricLevel3":"homeandfamily","metricLevel4":"schoolday","category":"vert","family":"hnf","presName":"Schoolday","asiCode":"","contentSection":"schd","contentType":"schd","channel":"schd"},"mar":{"timestamp":0,"metricLevel3":"recreation","metricLevel4":"boatandbeach","category":"vert","family":"outd","presName":"Marine","asiCode":"","contentSection":"bnb","contentType":"mar","channel":"bnb"},"/ugc/sports-rec/hunting-fishing":{"timestamp":0,"metricLevel3":"recreation","metricLevel4":"huntingandfishing","category":"vert","family":"sports_and_rec","presName":"Asset Sports-Rec Hunting-and-Fishing","asiCode":"","contentSection":"undc","contentType":"/ugc/sports-rec/hunting-fishing","channel":"out"},"driv":{"timestamp":0,"metricLevel3":"driving","metricLevel4":"interstate","category":"fcst","family":"drv","presName":"Driving","asiCode":"10045","contentSection":"istate","contentType":"driv","channel":"istate"},"picn":{"timestamp":0,"metricLevel3":"recreation","metricLevel4":"outdoors","category":"fcst","family":"fam","presName":"Old Picnic Do not use","asiCode":"","contentSection":"out","contentType":"picn","channel":"out"},"mp":{"timestamp":0,"metricLevel3":"homeandfamily","metricLevel4":"schoolday","category":"vert","family":"hnf","presName":"Moms Planner","asiCode":"","contentSection":"schd","contentType":"mp","channel":"schd"},"beau":{"timestamp":0,"metricLevel3":"HEALTH","metricLevel4":"BEAUTY","category":"vert","family":"hlth","presName":"Fashion and Beauty","asiCode":"","contentSection":"beau","contentType":"beau","channel":"beau"},"pcnc":{"timestamp":0,"metricLevel3":"RECREATION","metricLevel4":"OUTDOORS","category":"fcst","family":"fam","presName":"Picnic and Grilling","asiCode":"","contentSection":"out","contentType":"pcnc","channel":"out"},"/ugc/travel":{"timestamp":0,"metricLevel3":"travel","metricLevel4":"business","category":"vert","family":"travel","presName":"Asset Travel","asiCode":"","contentSection":"undc","contentType":"/ugc/travel","channel":"biz"},"news":{"timestamp":0,"metricLevel3":"news","metricLevel4":"news","category":"vert","family":"news","presName":"News","asiCode":"","contentSection":"news","contentType":"news","channel":"news"},"wed":{"timestamp":0,"metricLevel3":"events","metricLevel4":"wedding","category":"fcst","family":"hnf","presName":"Weddings","asiCode":"","contentSection":"wed","contentType":"wed","channel":"wed"},"evts":{"timestamp":0,"metricLevel3":"events","metricLevel4":"sports","category":"vert","family":"sprts","presName":"Events","asiCode":"no longer ","contentSection":"vac","contentType":"evts","channel":"evt"},"airq":{"timestamp":0,"metricLevel3":"health","metricLevel4":"airquality","category":"fcst","family":"hlth","presName":"Airquality","asiCode":"10046","contentSection":"pain","contentType":"airq","channel":"airq"},"/ugc/family-kids/pets":{"timestamp":0,"metricLevel3":"family","metricLevel4":"pets","category":"vert","family":"fam","presName":"Asset Pets","asiCode":"","contentSection":"undc","contentType":"/ugc/family-kids/pets","channel":"pets"},"vac":{"timestamp":0,"metricLevel3":"travel","metricLevel4":"vacationplan","category":"fcst","family":"trvl","presName":"Vacation Planner","asiCode":"","contentSection":"vac","contentType":"vac","channel":"vac"},"clim":{"timestamp":0,"metricLevel3":"travel","metricLevel4":"vacationplan","category":"vert","family":"trvl","presName":"Climate","asiCode":"","contentSection":"vac","contentType":"clim","channel":"vac"},"outd":{"timestamp":0,"metricLevel3":"recreation","metricLevel4":"outdoors","category":"vert","family":"outd","presName":"Outdoors","asiCode":"","contentSection":"out","contentType":"outd","channel":"out"},"algy":{"timestamp":0,"metricLevel3":"health","metricLevel4":"allergies","category":"fcst","family":"hlth","presName":"Allergies","asiCode":"10053","contentSection":"algy","contentType":"algy","channel":"algy"},"hmpl":{"timestamp":0,"metricLevel3":"homeandgarden","metricLevel4":"homeimprovement","category":"vert","family":"hng","presName":"Home and Garden","asiCode":"","contentSection":"garden","contentType":"hmpl","channel":"home"}},"siteId":"53","sequence":["WX_Top300Variable","WX_Tile2","WX_Video_TopLg","WX_Video_TopSm_RR","WX_SocialSevere","WX_SocialSevere_2","WX_SocialSevere_3","WX_PageCounter","WX_WindowShade","WX_Hidden","WX_MiniDriver1","WX_MiniDriver2","WX_PaidSearch","WX_Mid300","WX_Tile1"],"layout":"lo=wx_9;lo=wx_t3wsf","pageDeclaration":"fcst","zone":"local_forecasts/yesterday"};TWC.pco=TWC.initpco(jQuery,{currloc:{"zip":"14222","lon":-78.87999725341797,"countryName":"United States Of America","loctz":"America/New_York","loctime":"10:01:22","locid":"14222","locDisplayTimeStamp":"Mar 17, 2014, 10:01AM EDT","dma":"514","claritas":"31","state":"NY","locTimeZoneAbbr":"EDT","loctzoffset":-18000000,"lochrs":"10","locday":"Mon","countyCode":"NYC029","locampm":"AM","city":"Buffalo","country":"US","countyName":"Erie","locdate":"03/17/2014","loctype":4,"locname":"Buffalo","gpr":["NAM"],"lat":42.91999816894531},wx:{"wind":"lo","hum":"lo","relativeHumidity":60,"fcast":{"fsnw":"nl","cws":"nl","tempL":"30l","fiveDay":{"d1":"Partly Cloudy","d2":"Mostly Sunny","d3":"Rain / Wind","d5":"Mostly Cloudy","d4":"Few Snow Showers / Wind"},"fpdi3":"0","prcp":{"3":"0","2":"0","1":"0","6":"0","5":"50","4":"0"},"tempH":"40h","tempHR":"thaw","cond":{"fc3":"cld","fc1":"cld","fc2":"sun"},"fpdi2":"0","tempLR":"icy","fpdi1":"0"},"snw":"nl","cond":"cld","tempR":"icy","windSpeed":7,"pollen":"lo","baroTendency":"stdy","uv":"nl","uvIndex":1,"temp":"fnnl,17f,8nc,7nci","severe":"nl","wxExtIcon":"3000","realTemp":17,"wxIcon":30},page:{"loctz":"America/New_York","loctime":"10:01:22","pageId":"64272","locDisplayTimeStamp":"Mar 17, 2014, 10:01AM EDT","isDST":true,"locale":"en_US","locTimeZoneAbbr":"EDT","loctzoffset":-18000000,"lochrs":"10","locday":"Mon","lang":"en","locampm":"AM","ampm":"AM","serverdate":"03/17/2014","servertime":"10:01:22","locdate":"03/17/2014","serverhrs":"10","serverday":"Mon"},ad:pcoAd,metrics:{level1:"LOCALWX",level2:"PASTWEATHER",level3:"NA",level4:"FORECAST",level5:"",level6:"",contentType:"",detail:"",title:"",pagename:"WEATHER/yesterday",ad_category:"WEATHER",ad_family:"",ad_channel:"",ad_subchannel:"",mode_id:"default",account:"twciwx",fromString:""}},"64272","default","53",null);</script>
+<script>window.A21=window.A21||{};A21.googleLib="gpt.js";</script>
+<script src="http://d.imwx.com/managedfe/js/TWC/util/a21_dfpp.js"></script>
+<script>if(TWC.pco){TWC.pco.set("metrics.pagemode","default");}</script>
+<script src="http://d.imwx.com/jsRollup?rollup=/managedfe/js/TWC/util/header.js,/managedfe/js/TWC/class/Typeahead.js,/managedfe/js/TWC/util/Tools.js,/managedfe/js/TWC/util/tablet-text.js"></script>
+</head>
+<!--[if IE & !(lte IE 8)]><body class="no-js no-touch has-IE"><![endif]-->
+<!--[if IE 8]><body class="no-js no-touch has-IE has-IE8"><![endif]-->
+<!--[if lte IE 7]><body class="no-js no-touch has-IE has-IE7"><![endif]-->
+<![if !(IE)]><body class="no-js no-touch"><![endif]>
+<div id="wx-wrapper">
+<div>
+<div id="wx-top-wrap">
+<div id="WX_PageCounter" style="display:none">
+<script>A21.notifyRegistered('WX_PageCounter');</script>
+</div>
+<!--Visual Revenue Reader Response Tracking Script (v6) -->
+<script type="text/javascript">var _vrq=_vrq||[];_vrq.push(['id',181]);_vrq.push(['automate',false]);_vrq.push(['track',function(){}]);(function(d,a){var s=d.createElement(a),x=d.getElementsByTagName(a)[0];s.async=true;s.src='http://a.visualrevenue.com/vrs.js';x.parentNode.insertBefore(s,x);})(document,'script');</script>
+<!-- End of VR RR Tracking Script - All rights reserved -->
+<!-- Start - Comscore dependencies for video players embedded on the page -->
+<div id="comScore" style="display:none;"></div>
+<script>var user=TWC.pco.get("user");var comscorekey=(user&&user.preferredDeclaration)?user.preferredDeclaration:"";if((typeof(comscorekey)=="undefined")||comscorekey=="undc"){comscorekey="undc";}else{comscorekey=comscorekey;}
+if(comscorekey)
+{$.ajax({url:'/pagelet/comScore?comscorekw='+comscorekey,dataType:'html',type:'POST',success:function(data){$("#comScore").html(data);}});}</script>
+<!-- END - Comscore dependencies for video players embedded on the page -->
+<!-- For iCompass Tag WWW-16953 -->
+<script async src="http://icompass.insightexpressai.com/86.js"></script>
+<style>body{margin-top:0px!important}</style>
+<!-- pageConfig.attributes.top_nav_pageid=62289, navHLprops = {}, topnavpgId = 62289, secnavpgId= -->
+<!--  Adding a parameter to add a flag to turn the severe on or off for the breaking now module -->
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'/>
+<div class=" bn-mini wx-hide" id="wx-breaking-now" data-vr-zone="twc-breaking-now">
+<div id="wx-breaking-now-inner">
+<div class="twc-breaking-now-logo"></div>
+<div class="twc-breaking-now-bdr"></div>
+<ul class="twc-breaking-now-list wx-bn-FBPresent">
+<li data-vr-contentbox=""><h3><a href="/news/los-angeles-area-rattled-earthquake-20140317" title="BREAKING: Huge Earthquake Rattles Los Angeles" from="yesterday_breakingnewsbanner">BREAKING: Huge Earthquake Rattles Los Angeles</a></h3> <li>
+</ul>
+<div class="twc-breaking-now-bdr"></div>
+<div class="twc-breaking-now-social twc-left">
+<div class="wx-social-share-wrapper" alertmsg="Breaking Now - BREAKING: Huge Earthquake Rattles Los Angeles" alerturl="http://www.weather.com" alertdesc="Visit weather.com or tune in to The Weather Channel for continuing updates on this story." twittertext="Breaking Now - BREAKING: Huge Earthquake Rattles Los Angeles -" sharetype="br-share">
+<div class="wx-social-share-bar">Share<span class="wx-icon-font icon-arrow_down"></span></div>
+<div class="wx-social-share-list wx-hide">
+<ul class="wx-popup-list">
+<li class="wx-breaking-social-facebook wx-clickable">
+<div class="wx-icon wx-social wx-fb-sm">FB Share</div><span>Share</span>
+</li>
+<li class="wx-breaking-social-twitter wx-alt-row wx-clickable">
+<div class="wx-icon wx-social wx-twitter-sm">Tweet</div><span>Tweet</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="twc-breaking-social-container">
+<div class="twc-breaking-now-social wx-social-friends wx-hide" bralertmsg="Breaking Now - BREAKING: Huge Earthquake Rattles Los Angeles" bralerturl="http://www.weather.com/news/los-angeles-area-rattled-earthquake-20140317" bralertdesc="Visit www.weather.com for continuing updates." searchtype="stateSearch" searchvalue="California" radius="500" fbCustomActionUrl="http://www.weather.com" fbCustomActionType="my-friends-weather:notified_a_friend_on">
+<span class="wx-icon wx-social wx-fb-wt wx-left">Facebook</span>
+<span id="twc-breaking-fb-login" class="twc-breaking-social-friends"><h6><a href="#">See Friends at Risk <span class="wx-icon wx-arrow wx-w-sm-rt"></span></a></h6></span>
+</div>
+<div class="twc-breaking-now-facebook-detail wx-hide">
+<h6 class="twc-facebook-detail-main-head">Possibly Affected:</h6>
+<ul class="twc-breaking-now-facebook-detail-list" id="twc-breaking-now-facebook-detail-list-id">
+</ul>
+<h6 id="twc-facebook-breaking-sub-head-id" class="twc-facebook-detail-sub-head"></h6>
+<h6 id="twc-facebook-detail-sub-title-id" class="twc-facebook-detail-sub-title wx-hide"></h6>
+</div>
+</div>
+</div>
+</div>
+<div id="wx-header" class="wx-masthead tablet desktop wx-grid6of6">
+<span id="topNavPageId" class="wx-hide" top_nav_pageid="62289" sec_nav_pageid=""></span>
+<a id="wx-twc-logo" href="/" title="The Weather Channel - weather.com" from="hdr_logo"><img id="wx-twc-logo-img" src="http://s.imwx.com/v.20130816.172557//img/layout/TWC_logo_100x100.gif"/></a>
+<div class="wx-nav-utility">
+<div id="wx-saved-location"></div>
+<div class="wx-search wx-searchCntr">
+<form action="/search/enhancedlocalsearch" method="get" id="headerSearchForm" onSubmit="">
+<input id="typeaheadBox" name="where" placeholder="Search Zip, City, or Place (Disney World)" title="Search Zip, City, or Place (Disney World)" autocomplete="off">
+<button class="wx-searchButton"><span class="icon-search_right" aria-hidden="true"></span></button>
+<input type="hidden" value="1003,1001,1000,1,9,5,11,13,19,20" name="loctypes">
+<input type="hidden" value="hdr_localsearch" name="from">
+</form>
+<div class="twc-recent-search-results wx-hide"></div>
+<div class="twc-typeahead-results"></div>
+</div>
+<ul id="wx-custom">
+<li id="wx-temp-toggle">
+<button type="button" tabindex="0" class="wx-active" title="Fahrenheit is Selected" id="wx-temperature-fahrenheight-button">&deg;F</button>
+<button type="button" tabindex="0" title="Change to Celsius" id="wx-temperature-celcius-button">&deg;C</button>
+</li>
+<li id="wx-lang" title="Select non-U.S. weather.com website">
+<a href="/life/international" from="hdr_global_sites"><span class="icon icon-globe"></span></a>
+</li>
+</ul>
+</div>
+<!-- hdrspon -->
+<!--NAVIGATION-->
+<div id="wx-Strip" class="wx-nav-main">
+<ul class="primary">
+<li id="wx-primeNav1" class="wx-nav" pageid="62289" data-vr-zone="hdr_content_zones_forecasts">
+<a class="" href="/weather/right-now/" from="yesterday_header_nav_primary_1" title="">Forecasts</a>
+<div class="wx-hide subnav-content" id="wx-subNav1">
+<ul class="wx-subnav left">
+<li pageid="62288" topid="62289" data-vr-contentbox="nav_secondary_forecasts_left_1">
+<a class="" href="/weather/right-now/" from="yesterday_header_nav_secondary_forecasts_left_1" title="">Today's Forecast</a>
+</li>
+<li pageid="59104" topid="62289" data-vr-contentbox="nav_secondary_forecasts_left_2">
+<a class="" href="/newscenter/nationalforecast/" from="yesterday_header_nav_secondary_forecasts_left_2" title="">National Forecast</a>
+</li>
+<li pageid="56445" topid="62289" data-vr-contentbox="nav_secondary_forecasts_left_3">
+<a class="" href="/news/tornado-central/severe-weather-tracker-page" from="yesterday_header_nav_secondary_forecasts_left_3" title="">Severe Weather</a>
+</li>
+<li pageid="59114" topid="62289" data-vr-contentbox="nav_secondary_forecasts_left_4">
+<a class="" href="/newscenter/alerts/national/severeWxAlertsNational.html" from="yesterday_header_nav_secondary_forecasts_left_4" title="">Alerts</a>
+</li>
+<li pageid="64405" topid="62289" data-vr-contentbox="nav_secondary_forecasts_left_5">
+<a class="" href="/safety/main" from="yesterday_header_nav_secondary_forecasts_left_5" title="">Safety & Preparedness</a>
+</li>
+<li pageid="62976" topid="62289" data-vr-contentbox="nav_secondary_forecasts_left_6">
+<a class="" href="/weather/hurricanecentral/" from="yesterday_header_nav_secondary_forecasts_left_6" title="">Hurricane Central</a>
+</li>
+<li pageid="64263" topid="62289" data-vr-contentbox="nav_secondary_forecasts_left_7">
+<a class="" href="/news/winter" from="yesterday_header_nav_secondary_forecasts_left_7" title="">Winter Storm Central</a>
+</li>
+<li pageid="64562" topid="62289" data-vr-contentbox="nav_secondary_maps_right_8">
+<a class="" href="/travel/commute" from="yesterday_header_nav_secondary_forecasts_left_8" title="">Commuter Forecast</a>
+</li>
+</ul>
+<ul class="wx-subnav center">
+<li topid="62289" data-vr-contentbox="nav_secondary_forecasts_center_1">
+<a href="/safety/winter/winter-storm-wiley-20140314" from="yesterday_header_nav_secondary_forecasts_center_1">
+<img class="wx-nav-content-img" alt="Winter Storm Wiley&#58; Snow&#44; Ice Linger Monday" data-src="http://i.imwx.com/images/maps/truvu/map_specnewsdct-07_ltst_4namus_enus_160x90.jpg"/>
+<h3>Winter Storm Wiley&#58; Snow&#44; Ice Linger Monday </h3>
+</a>
+</li>
+<li topid="62289" data-vr-contentbox="nav_secondary_forecasts_center_3">
+<a href="/news/tornado-central/severe-weather-tracker-page" from="yesterday_header_nav_secondary_forecasts_center_3">
+<img class="wx-nav-content-img" alt="Severe Storm Threat in Florida" data-src="http://i.imwx.com/images/maps/truvu/map_specnews01_ltst_4namus_enus_160x90.jpg"/>
+<h3>Severe Storm Threat in Florida </h3>
+</a>
+</li>
+<li topid="62289" data-vr-contentbox="nav_secondary_forecasts_center_2">
+<a href="/video/13716" from="yesterday_header_nav_secondary_forecasts_center_2">
+<img class="wx-nav-content-img" alt="Your Forecast this week" data-src="http://i.imwx.com/web/multimedia/images/miscellaneous/weekly_160x90.jpg"/>
+<h3>Your Forecast this week </h3>
+</a>
+</li>
+</ul>
+<ul class="wx-subnav right">
+<li pageid="" topid="62289" data-vr-contentbox="nav_secondary_forecasts_right_1">
+<a class="" href="/lifestyle/main" from="yesterday_header_nav_secondary_forecasts_right_1" title=""><h4>SEASONAL FORECASTS</h4></a>
+</li>
+<li pageid="56955" topid="62289" data-vr-contentbox="nav_secondary_forecasts_right_2">
+<a class="" href="/activities/travel/businesstraveler/index.html" from="yesterday_header_nav_secondary_forecasts_right_2" title=""><span class="boat"></span>Business Travel</a>
+</li>
+<li pageid="64242" topid="62289" data-vr-contentbox="nav_secondary_forecasts_right_3">
+<a class="" href="/health/fitness-exercise/" from="yesterday_header_nav_secondary_forecasts_right_3" title=""><span class="fitness"></span>Fitness</a>
+</li>
+<li pageid="64203" topid="62289" data-vr-contentbox="nav_secondary_forecasts_right_4">
+<a class="" href="/activities/recreation/golf/" from="yesterday_header_nav_secondary_forecasts_right_4" title=""><span class="golf"></span>Golf</a>
+</li>
+<li pageid="63425" topid="62289" data-vr-contentbox="nav_secondary_forecasts_right_5">
+<a class="" href="/activities/recreation/outdoors/fishing/" from="yesterday_header_nav_secondary_forecasts_right_5" title=""><span class="fish"></span>Fishing</a>
+</li>
+<li pageid="64206" topid="62289" data-vr-contentbox="nav_secondary_forecasts_right_6">
+<a class="" href="/sports-rec/ski/main" from="yesterday_header_nav_secondary_forecasts_right_6" title=""><span class="pollen"></span>Ski</a>
+</li>
+<li pageid="61599" topid="62289" data-vr-contentbox="nav_secondary_forecasts_right_7">
+<a class="" href="/outdoors/agriculture/forecast/" from="yesterday_header_nav_secondary_forecasts_right_7" title=""><span class="farm"></span>Farming</a>
+</li>
+</ul>
+</div>
+</li>
+<li id="wx-primeNav2" class="wx-nav" pageid="64267" data-vr-zone="hdr_content_zones_maps">
+<a class="" href="/weather/map/interactive" from="yesterday_header_nav_primary_2" title="">Maps</a>
+<div class="wx-hide subnav-content" id="wx-subNav2">
+<ul class="wx-subnav left">
+<li pageid="64267" topid="64267" data-vr-contentbox="nav_secondary_maps_left_1">
+<a class="" href="/weather/map/interactive/" from="yesterday_header_nav_secondary_maps_left_1" title="">Weather In Motion</a>
+</li>
+<li pageid="60377" topid="64267" data-vr-contentbox="nav_secondary_maps_left_2">
+<a class="" href="/maps/maptype/severeusnational/ussevereweatheralerts_large.html" from="yesterday_header_nav_secondary_maps_left_2" title="">Severe Alerts</a>
+</li>
+<li pageid="60379" topid="64267" data-vr-contentbox="nav_secondary_maps_left_3">
+<a class="" href="/maps/maptype/currentweatherusnational/uscurrenttemperatures_large.html" from="yesterday_header_nav_secondary_maps_left_3" title="">Current Temps</a>
+</li>
+<li pageid="60379" topid="64267" data-vr-contentbox="nav_secondary_maps_left_4">
+<a class="" href="/maps/maptype/currentweatherusnational/uscurrentweather_large.html" from="yesterday_header_nav_secondary_maps_left_4" title="">Classic Maps</a>
+</li>
+<li pageid="60384" topid="64267" data-vr-contentbox="nav_secondary_maps_left_5">
+<a class="" href="/maps/maptype/satelliteusnational/usinfraredsatellite_large.html" from="yesterday_header_nav_secondary_maps_left_5" title="">US Satellite</a>
+</li>
+<li pageid="" topid="64267" data-vr-contentbox="nav_secondary_maps_left_6">
+<a class="" href="/maps/maptype/satelliteworld/westernhemisphereglobalsatellite_large.html?clip=undefined&region=undefined&collection=localwxforecast&presname=undefined" from="yesterday_header_nav_secondary_maps_left_6" title="">World Satellite</a>
+</li>
+<li pageid="64562" topid="64267" data-vr-contentbox="nav_secondary_maps_right_7">
+<a class="" href="/travel/commute" from="yesterday_header_nav_secondary_maps_left_7" title="">Commuter Forecast</a>
+</li>
+</ul>
+<ul class="wx-subnav center">
+<li topid="64267" data-vr-contentbox="nav_secondary_maps_center_1">
+<a href="/maps/activity/ski/uscurrentsnowcover_large.html" from="yesterday_header_nav_secondary_maps_center_1">
+<img class="wx-nav-content-img" alt="Current Snowcover" data-src="http://image.weather.com/images/maps/pt_BR/winter/us_snowcover_small_usen.jpg"/>
+<h3>Current Snowcover </h3>
+</a>
+</li>
+<li topid="64267" data-vr-contentbox="nav_secondary_maps_center_2">
+<a href="/travel/commute?layers=driving" from="yesterday_header_nav_secondary_maps_center_2">
+<img class="wx-nav-content-img" alt="Traffic & Driving" data-src="http://s.imwx.com/dru/2013/08/5bb538bd-8939-4d22-b602-e148d412c941_160x90.jpg"/>
+<h3>Traffic & Driving </h3>
+</a>
+</li>
+<li topid="64267" data-vr-contentbox="nav_secondary_maps_center_3">
+<a href="/outlook/health/coldandflu/nationalreports/" from="yesterday_header_nav_secondary_maps_center_3">
+<img class="wx-nav-content-img" alt="National Flu Report" data-src="http://image.weather.com/images/maps/health/map_flu_ltst_4namus_enus_277x187.jpg"/>
+<h3>National Flu Report </h3>
+</a>
+</li>
+</ul>
+<ul class="wx-subnav right">
+<li pageid="" topid="64267" data-vr-contentbox="nav_secondary_maps_right_1">
+<a class="" href="/weather/map/interactive" from="yesterday_header_nav_secondary_maps_right_1" title=""><h4>INTERACTIVE MAP</h4></a>
+</li>
+<li pageid="64267" topid="64267" data-vr-contentbox="nav_secondary_maps_right_2">
+<a class="" href="/weather/map/interactive/?layers=0039" from="yesterday_header_nav_secondary_maps_right_2" title="">Radar</a>
+</li>
+<li pageid="64267" topid="64267" data-vr-contentbox="nav_secondary_maps_right_3">
+<a class="" href="/weather/map/interactive/?layers=0039&#44;0040" from="yesterday_header_nav_secondary_maps_right_3" title="">Radar&#47;Cloud</a>
+</li>
+<li pageid="64267" topid="64267" data-vr-contentbox="nav_secondary_maps_right_4">
+<a class="" href="/weather/map/interactive/?layers=0040" from="yesterday_header_nav_secondary_maps_right_4" title="">Clouds</a>
+</li>
+<li pageid="64267" topid="64267" data-vr-contentbox="nav_secondary_maps_right_5">
+<a class="" href="/weather/map/interactive/?layers=0090&#44;0120" from="yesterday_header_nav_secondary_maps_right_5" title="">Temps</a>
+</li>
+<li pageid="64267" topid="64267" data-vr-contentbox="nav_secondary_maps_right_6">
+<a class="" href="/weather/map/interactive/?layers=0094" from="yesterday_header_nav_secondary_maps_right_6" title="">Winds</a>
+</li>
+<li pageid="64267" topid="64267" data-vr-contentbox="nav_secondary_maps_right_7">
+<a class="" href="/weather/map/interactive/?layers=0039,0125" from="yesterday_header_nav_secondary_maps_right_7" title="">Winter Alerts</a>
+</li>
+</ul>
+</div>
+</li>
+<li id="wx-primeNav3" class="wx-nav" pageid="61898" data-vr-zone="hdr_content_zones_video">
+<a class="" href="/video/?collid=/news/top-stories" from="yesterday_header_nav_primary_3" title="">Video</a>
+<div class="wx-hide subnav-content" id="wx-subNav3">
+<ul class="wx-subnav left">
+<li pageid="" topid="61898" data-vr-contentbox="nav_secondary_video_left_1">
+<a class="" href="/video/?collid=/news/top-stories" from="yesterday_header_nav_secondary_video_left_1" title="">All Video</a>
+</li>
+<li pageid="61898" topid="61898" data-vr-contentbox="nav_secondary_video_left_2">
+<a class="" href="/video/?collid=/news/most-viewed" from="yesterday_header_nav_secondary_video_left_2" title="">Most Popular</a>
+</li>
+<li pageid="64567" topid="61898" data-vr-contentbox="nav_secondary_video_left_3">
+<a class="" href="/weather-films/index.html" from="yesterday_header_nav_secondary_video_left_3" title="">Weather Films</a>
+</li>
+<li pageid="61898" topid="61898" data-vr-contentbox="nav_secondary_video_left_4">
+<a class="" href="/video/?collid=/news/weather-hurricanes" from="yesterday_header_nav_secondary_video_left_4" title="">Hurricanes</a>
+</li>
+<li pageid="64627" topid="61898" data-vr-contentbox="nav_secondary_video_left_5">
+<a class="" href="/photos" from="yesterday_header_nav_secondary_video_left_5" title="">Fan Videos</a>
+</li>
+<li pageid="64627" topid="61898" data-vr-contentbox="nav_secondary_video_left_6">
+<a class="" href="/photos" from="yesterday_header_nav_secondary_video_left_6" title="">Upload a Video</a>
+</li>
+</ul>
+<ul class="wx-subnav center">
+<li topid="61898" data-vr-contentbox="nav_secondary_video_center_1">
+<a href="/video/winter-storm-wiley-heads-east-42444" from="yesterday_header_nav_secondary_video_center_1">
+<img class="wx-nav-content-img" alt="Winter Storm Wiley Heads East" data-src="http://i.imwx.com/web/multimedia/images/video/0316wwu_160x90.jpg"/>
+<h3>Winter Storm Wiley Heads East <span class="icon icon-play_circle"></span></h3>
+</a>
+</li>
+<li topid="61898" data-vr-contentbox="nav_secondary_video_center_2">
+<a href="/news/science/environment/americas-morning-headquarters-offers-5-part-series-restoring-colorado-river-20140316" from="yesterday_header_nav_secondary_video_center_2">
+<img class="wx-nav-content-img" alt="'The Status Quo Will Not Be Acceptable'" data-src="/web/multimedia/images/video/0314amhq_160x90.jpg"/>
+<h3>'The Status Quo Will Not Be Acceptable' <span class="icon icon-play_circle"></span></h3>
+</a>
+</li>
+<li topid="61898" data-vr-contentbox="nav_secondary_video_center_3">
+<a href="/video/watch-how-can-they-do-that-45724" from="yesterday_header_nav_secondary_video_center_3">
+<img class="wx-nav-content-img" alt="How Can They DO That?" data-src="http://i.imwx.com/web/multimedia/images/video/fit0316_160x90.jpg"/>
+<h3>How Can They DO That? <span class="icon icon-play_circle"></span></h3>
+</a>
+</li>
+</ul>
+<ul class="wx-subnav right">
+<li pageid="" topid="61898" data-vr-contentbox="nav_secondary_video_right_1">
+<h4>VIDEO FEATURES</h4>
+</li>
+<li pageid="64784" topid="61898" data-vr-contentbox="nav_secondary_video_right_2">
+<a class="" href="/special/our-favorite-videos/video/" from="yesterday_header_2" title="">It's Amazing Out There</a>
+</li>
+<li pageid="64837" topid="61898" data-vr-contentbox="nav_secondary_video_right_3">
+<a class="" href="/special/uncharted/video" from="yesterday_header_3" title="">Uncharted </a>
+</li>
+<li pageid="64461" topid="61898" data-vr-contentbox="nav_secondary_video_right_4">
+<a class="" href="/video/sponsored-video/" from="yesterday_header_4" title="">Video of the Day</a>
+</li>
+<li pageid="64729" topid="61898" data-vr-contentbox="nav_secondary_video_right_5">
+<a class="" href="/special/great-outdoors/video/" from="yesterday_header_5" title="">Great Outdoors</a>
+</li>
+</ul>
+</div>
+</li>
+<li id="wx-primeNav4" class="wx-nav" pageid="64471" data-vr-zone="hdr_content_zones_photos">
+<a class="" href="/slideshows/main" from="yesterday_header_nav_primary_4" title="">Photos</a>
+<div class="wx-hide subnav-content" id="wx-subNav4">
+<ul class="wx-subnav left">
+<li pageid="" topid="64471" data-vr-contentbox="nav_secondary_photos_left_1">
+<a class="" href="/slideshows/main" from="yesterday_header_nav_secondary_photos_left_1" title="">All Photos</a>
+</li>
+<li pageid="" topid="64471" data-vr-contentbox="nav_secondary_photos_left_7">
+<a class="" href="/photos" from="yesterday_header_nav_secondary_photos_left_2" title="">Fan Photos</a>
+</li>
+<li pageid="" topid="64471" data-vr-contentbox="nav_secondary_photos_left_8">
+<a class="" href="/photos" from="yesterday_header_nav_secondary_photos_left_3" title="">Upload Your Photos</a>
+</li>
+</ul>
+<ul class="wx-subnav center">
+<li topid="64471" data-vr-contentbox="nav_secondary_photos_center_3">
+<a href="/travel/clearest-bluest-waters-world-photos-20140314" from="yesterday_header_nav_secondary_photos_center_3">
+<img class="wx-nav-content-img" alt="The Bluest Waters on Earth" data-src="http://s.imwx.com/dru/2014/03/16fa808b-2b19-4af0-aa45-936e0f90935f_160x90.jpg"/>
+<h3>The Bluest Waters on Earth <span class="icon icon-cam"></span></h3>
+</a>
+</li>
+<li topid="64471" data-vr-contentbox="nav_secondary_photos_center_2">
+<a href="/news/science/nature/25-unbelievably-colorful-places-20140307" from="yesterday_header_nav_secondary_photos_center_2">
+<img class="wx-nav-content-img" alt="World&#39;s Most Colorful Places" data-src="http://s.imwx.com/dru/2014/03/5fe4e142-447b-411f-b135-543d6e8ac1b2_160x90.jpg"/>
+<h3>World&#39;s Most Colorful Places <span class="icon icon-cam"></span></h3>
+</a>
+</li>
+<li topid="64471" data-vr-contentbox="nav_secondary_photos_center_4">
+<a href="/sports-rec/sports-venues-unusual-places-photos-20131030" from="yesterday_header_nav_secondary_photos_center_4">
+<img class="wx-nav-content-img" alt="7 Strange Places for Sports Venues" data-src="http://s.imwx.com/dru/2013/10/b1c6213c-e9d7-4772-b6de-5b6cd9f4082a_160x90.jpg"/>
+<h3>7 Strange Places for Sports Venues <span class="icon icon-cam"></span></h3>
+</a>
+</li>
+<li topid="64471" data-vr-contentbox="nav_secondary_photos_center_1">
+<a href="/news/outdoor-journey/outdoor-journey-user-photos-20140228" from="yesterday_header_nav_secondary_photos_center_1">
+<img class="wx-nav-content-img" alt="The Best Outdoor Journey Photos" data-src="http://s.imwx.com/img/ugc/outdoor_journey_photo_homepage.jpg"/>
+<h3>The Best Outdoor Journey Photos <span class="icon icon-cam"></span></h3>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li id="wx-primeNav5" class="wx-nav" pageid="63548" data-vr-zone="hdr_content_zones_news">
+<a class="" href="/news/main" from="yesterday_header_nav_primary_5" title="">News</a>
+<div class="wx-hide subnav-content" id="wx-subNav5">
+<ul class="wx-subnav left">
+<li pageid="" topid="63548" data-vr-contentbox="nav_secondary_topics_left_1">
+<a class="" href="/news/main" from="yesterday_header_nav_secondary_topics_left_1" title="">All News</a>
+</li>
+<li pageid="" topid="63548" data-vr-contentbox="nav_secondary_topics_left_2">
+<a class="" href="/news/science" from="yesterday_header_nav_secondary_topics_left_2" title="">Science</a>
+</li>
+<li pageid="" topid="63548" data-vr-contentbox="nav_secondary_topics_left_3">
+<a class="" href="/news/science/space" from="yesterday_header_nav_secondary_topics_left_3" title="">Space</a>
+</li>
+<li pageid="" topid="63548" data-vr-contentbox="nav_secondary_topics_left_4">
+<a class="" href="/news/science/nature" from="yesterday_header_nav_secondary_topics_left_4" title="">Nature</a>
+</li>
+<li pageid="" topid="63548" data-vr-contentbox="nav_secondary_topics_left_5">
+<a class="" href="/news/science/environment" from="yesterday_header_nav_secondary_topics_left_5" title="">Environment</a>
+</li>
+<li pageid="" topid="63548" data-vr-contentbox="nav_secondary_topics_left_6">
+<a class="" href="/travel/main" from="yesterday_header_nav_secondary_topics_left_6" title="">Travel</a>
+</li>
+<li pageid="" topid="63548" data-vr-contentbox="nav_secondary_topics_left_7">
+<a class="" href="/weather/hurricanecentral" from="yesterday_header_nav_secondary_topics_left_7" title="">Hurricane Central</a>
+</li>
+</ul>
+<ul class="wx-subnav center">
+<li topid="63548" data-vr-contentbox="nav_secondary_topics_center_2">
+<a href="/home-garden/best-buy-solar-city-solar-panels-20140314" from="yesterday_header_nav_secondary_topics_center_2">
+<img class="wx-nav-content-img" alt="Solar Power For Your Home Coming Soon" data-src="http://s.imwx.com/dru/2014/03/dcce7c93-aa43-40fc-beb8-420001b1cff9_160x90.jpg"/>
+<h3>Solar Power For Your Home Coming Soon </h3>
+</a>
+</li>
+<li topid="63548" data-vr-contentbox="nav_secondary_topics_center_3">
+<a href="/news/canada-mexico-flight-turbulence-20140317" from="yesterday_header_nav_secondary_topics_center_3">
+<img class="wx-nav-content-img" alt="Extreme Turbulence Forces Emergency Stop" data-src="http://s.imwx.com/dru/2014/03/f8edab2f-b7a1-4d87-a3d4-5e19714bbf04_160x90.jpg"/>
+<h3>Extreme Turbulence Forces Emergency Stop </h3>
+</a>
+</li>
+<li topid="63548" data-vr-contentbox="nav_secondary_topics_center_1">
+<a href="/news/record-low-texas-lakes-drought-worsens-20140315" from="yesterday_header_nav_secondary_topics_center_1">
+<img class="wx-nav-content-img" alt="Texas Lakes Hit Record Lows" data-src="http://s.imwx.com/dru/2014/03/b56ce963-ad71-494b-bf42-6f1b3997826e_160x90.jpg"/>
+<h3>Texas Lakes Hit Record Lows </h3>
+</a>
+</li>
+</ul>
+<ul class="wx-subnav right">
+<li pageid="" topid="63548" data-vr-contentbox="nav_secondary_topics_right_1">
+<a class="" href="/news/main" from="yesterday_header_nav_secondary_topics_right_1" title=""><h4>MORE TOPICS</h4></a>
+</li>
+<li pageid="" topid="63548" data-vr-contentbox="nav_secondary_topics_right_2">
+<a class="" href="/health/main" from="yesterday_header_nav_secondary_topics_right_2" title="">Health</a>
+</li>
+<li pageid="" topid="63548" data-vr-contentbox="nav_secondary_topics_right_3">
+<a class="" href="/home-garden/main" from="yesterday_header_nav_secondary_topics_right_3" title="">Home & Garden</a>
+</li>
+<li pageid="" topid="63548" data-vr-contentbox="nav_secondary_topics_right_5">
+<a class="" href="/sports-rec/main" from="yesterday_header_nav_secondary_topics_right_4" title="">Sports & Recreation</a>
+</li>
+<li pageid="" topid="63548" data-vr-contentbox="nav_secondary_topics_right_6">
+<a class="" href="/news/tornado-central/main" from="yesterday_header_nav_secondary_topics_right_5" title="">Tornado Central</a>
+</li>
+<li pageid="" topid="63548" data-vr-contentbox="nav_secondary_topics_right_7">
+<a class="" href="/news/winter" from="yesterday_header_nav_secondary_topics_right_6" title="">Winter Storm Central</a>
+</li>
+</ul>
+</div>
+</li>
+<li id="wx-primeNav6" class="wx-nav" pageid="64761" data-vr-zone="hdr_content_zones_tv">
+<a class="" href="/tv/tvshows/main" from="yesterday_header_nav_primary_6" title="">TV</a>
+<div class="wx-hide subnav-content" id="wx-subNav6">
+<ul class="wx-subnav left">
+<li pageid="59132" topid="64761" data-vr-contentbox="nav_secondary_tv_left_1">
+<a class="" href="/tv/tvshows/main" from="yesterday_header_nav_secondary_tv_left_1" title="">All TV</a>
+</li>
+<li pageid="" topid="64761" data-vr-contentbox="nav_secondary_tv_left_1">
+<a class="" href="/tv/tvshows/personalities/main" from="yesterday_header_nav_secondary_tv_left_2" title="">Personalities</a>
+</li>
+<li pageid="" topid="64761" data-vr-contentbox="nav_secondary_tv_left_2">
+<a class="" href="/tv/tvshows/personalities/main" from="yesterday_header_nav_secondary_tv_left_3" title="">Experts</a>
+</li>
+<li pageid="" topid="64761" data-vr-contentbox="nav_secondary_tv_left_3">
+<a class="" href="/tv/tvshows/main" from="yesterday_header_nav_secondary_tv_left_4" title="">Shows</a>
+</li>
+<li pageid="" topid="64761" data-vr-contentbox="nav_secondary_tv_left_4">
+<a class="" href="/tv/tvshows/live-stream" from="yesterday_header_nav_secondary_tv_left_5" title="">Livestream</a>
+</li>
+</ul>
+<ul class="wx-subnav center">
+<li topid="64761" data-vr-contentbox="nav_secondary_tv_center_1">
+<a href="/tv/tvshows/coast-guard-cape-disappointment/video" from="yesterday_header_nav_secondary_tv_center_1">
+<img class="wx-nav-content-img" alt="Sundays 10/9c " data-src="http://s.imwx.com/dru/2014/02/a7d8605b-81b0-4a49-a82e-c8d1f3eedcd1_320x180.jpg"/>
+<h3>Sundays 10/9c </h3>
+</a>
+</li>
+<li topid="64761" data-vr-contentbox="nav_secondary_tv_center_2">
+<a href="/tv/tvshows/amhq/main" from="yesterday_header_nav_secondary_tv_center_2">
+<img class="wx-nav-content-img" alt="New Morning Show, Weekdays 7/6c!  " data-src="http://s.imwx.com/dru/2014/03/e5f25032-f52b-489e-b649-a6d80ff02226_320x180.jpg"/>
+<h3>New Morning Show, Weekdays 7/6c! </h3>
+</a>
+</li>
+<li topid="64761" data-vr-contentbox="nav_secondary_tv_center_3">
+<a href="/tv/tvshows/prospectors/main/" from="yesterday_header_nav_secondary_tv_center_3">
+<img class="wx-nav-content-img" alt="Sundays 9/8c " data-src="http://s.imwx.com/dru/2013/10/c2b73117-f299-4721-8e5f-ca48cf87f0f2_320x180.jpg"/>
+<h3>Sundays 9/8c </h3>
+</a>
+</li>
+</ul>
+<ul class="wx-subnav right">
+<li pageid="" topid="64761" data-vr-contentbox="nav_secondary_tv_right_1">
+<a class="" href="/tv/programs/" from="yesterday_header_nav_secondary_tv_right_1" title=""><h4>MORE SHOWS</h4></a>
+</li>
+<li pageid="" topid="64761" data-vr-contentbox="nav_secondary_tv_right_2">
+<a class="" href="/tv/tvshows/wake-up-with-al/video/" from="yesterday_header_nav_secondary_tv_right_2" title="">Wake Up With Al</a>
+</li>
+<li pageid="" topid="64761" data-vr-contentbox="nav_secondary_tv_right_3">
+<a class="" href="/tv/tvshows/amhq/main" from="yesterday_header_nav_secondary_tv_right_3" title="">America's Morning Headquarters </a>
+</li>
+<li pageid="" topid="64761" data-vr-contentbox="nav_secondary_tv_right_4">
+<a class="" href="/tv/tvshows/prospectors/main" from="yesterday_header_nav_secondary_tv_right_4" title="">Prospectors</a>
+</li>
+<li pageid="" topid="64761" data-vr-contentbox="nav_secondary_tv_right_5">
+<a class="" href="/tv/tvshows/secrets-of-the-earth/video/" from="yesterday_header_nav_secondary_tv_right_5" title="">Secrets of the Earth</a>
+</li>
+<li pageid="" topid="64761" data-vr-contentbox="nav_secondary_tv_right_6">
+<a class="" href="/tv/tvshows/hurricane-hunters/video/" from="yesterday_header_nav_secondary_tv_right_6" title="">Hurricane Hunters</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class="wx-subnav-wrap"></div>
+<ul id="wx-header-tools" class="secondary">
+<li id="wx-sign-in"><a from="hdr_signin" href="https://profile.weather.com/#/login"><span class="icon-user"></span>Sign In</a></li>
+<li id="wx-get-alerts"><a from="hdr_alerts" href="https://profile.weather.com/"><span class="icon-alert"></span>Alerts</a></li>
+<li id="wx-my-profile" class="wx-hide"><span class="icon-user"></span><span>My Profile</span><span class="icon-arrow_down" aria-hidden="true"></span>
+<ul class="wx-hide" id="wx-signin">
+<!--  <li class="wx-signin-gold"><a from="hdr_wxgold" href=""></a></li> -->
+<li class="wx-signin-notify wx-hide"><a href=""></a></li>
+<li class="wx-signin-mnglocs"><a from="hdr_mnglocs" href="/life/profile ">Manage Locations</a></li>
+<li class="wx-signin-mngalerts"><a from="hdr_mngalerts" href="https://profile.weather.com/#/profile/alerts ">Manage Alerts</a></li>
+<li class="wx-signin-myprofile"><a from="hdr_myprofile" href="https://profile.weather.com/#/profile/manage">Edit Profile</a></li>
+<li class="wx-signin-signout"><a from="hdr_signout" href="https://profile.weather.com/signout.html">Sign Out</a></li>
+</ul>
+</li>
+<li id="wx-upload-app">
+<a href="/photos" from="hdr_photos" title="Upload Photos"><span class="icon-upload-2"></span> Photos</a>
+</li>
+<li id="wx-download-app">
+<a href="/services/winapp.html" from="hdr_desktop" title="Download Desktop App"><span class="icon-download"></span> Desktop App</a>
+</li>
+<!--<li id="wx-social">
+			<a from="hdr_twitter" title="Follow us on Twitter" href="https://twitter.com/weatherchannel"><span class="icon-twitter_square"></span></a>
+			<a from="hdr_twitter" title="Like us on Facebook" href="https://www.facebook.com/TheWeatherChannel"><span class="icon-facebook_square"></span></a>
+		</li>
+		-->
+</ul>
+</div>
+<!-- End Navigation -->
+</div><!-- wx-header -->
+<div id="WX_WindowShade" class="wx-module wx-gptADS" style="display:none;">
+<script>A21.notifyRegistered('WX_WindowShade');</script>
+</div>
+<em class="wx-hide" title="wx-event-easter" classtoapply="wx-cond-ptcloudyday"></em>
+<div id="wx-lbox-locsearch">
+<div class="wx-locsearch-module" data-metrics="yesterday">
+<div class="wx-lbox-header">
+<div class="wx-lbox-title">Enter Your Location</div>
+</div>
+<div class="wx-lbox-main">
+<div class="wx-location">
+<form>
+<div class="wx-search">
+<div class="wx-search-form">
+<input data-typeahead="true" data-no-results="No results. Please try again" data-error="Enter a city/state or ZIP" autocomplete="off" class="wx-text-box wx-locsearch wx-placeholder" title="Enter City & State or Zip" name="wx-locsearch" value="Enter City & State or Zip" type="text">
+<button name="locsearch-button" class="wx-button wx-locsearch twc-go-button" title="Location Search" type="button"></button>
+</div>
+<div class="wx-search-results"></div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div id="wx-global-title">
+<!-- c:set var="title" value="true"/ -->
+<!-- c:set var="link1" value="false"/ -->
+<!-- c:set var="link2" value="false"/ -->
+<div class="wx-location-title">
+<h1>
+Buffalo, NY (14222) Weather
+</h1>
+<ul>
+</ul>
+</div>
+<div class="wx-social-share-ls-wrapper">
+<ul>
+<li class="wx-social-share-ls-facebook wx-clickable">
+<div class="wx-icon wx-social wx-fb-wide wx-tooltip" title="Share on Facebook" ">Share</div>
+</li>
+<li class="wx-social-share-ls-twitter wx-alt-row wx-clickable">
+<div class="wx-icon wx-social wx-twitter-sm wx-twitter-wide  wx-tooltip" title="Tweet">Tweet</div>
+</li>
+<li class="wx-social-share-ls-gplus wx-clickable">
+<div class="wx-icon wx-social wx-gplus-wide wx-tooltip"><g:plusone size="normal" annotation="none" callback="gpluscallback"></g:plusone></div>
+</li>
+<li><a href="" class="wx-icon wx-social wx-email-wide" title="Email">&nbsp;</a></li>
+<li class="wx-social-share-ls-print wx-clickable">
+<div class="wx-icon wx-social wx-print-wide wx-tooltip" title="Print"></div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div id="wx-mid-wrap">
+<div id="wx-main">
+<div id="wx-inner-rail">
+<div class="wx-module wx-grid1of6 wx-weather wx-cond-bg wx-observered-temp">
+<div class="wx-module-inner">
+<div class="wx-temp-container wx-observed-avg-2dig">
+<div class="wx-temp-hi-title">Yesterday's High</div>
+<div class="wx-observed-avg-arrow-dn"></div>
+<div class="wx-temp">20<span>&deg;</span></div>
+<div class="wx-observed-avg-txt">Below Average</div>
+</div>
+<div class="wx-temp-container wx-observed-avg-2dig">
+<div class="wx-temp-hi-title">Yesterday's Low</div>
+<div class="wx-observed-avg-arrow-dn"></div>
+<div class="wx-temp">13<span>&deg;</span></div>
+<div class="wx-observed-avg-txt">Below Average</div>
+</div>
+</div>
+</div>
+<div class="wx-nav-ls-conditions wx-nav-ls wx-grid1of6 wx-module">
+<ul class="wx-conditions">
+<li class='wx-current'>
+<a class="wx-vnav wx-icon-right" href="/weather/yesterday/Buffalo+NY+14222:4:US" from="yesterday_TimeNav_weather_nav" title="Yesterday">Yesterday
+</a>
+</li>
+<li>
+<a class="wx-vnav " href="/weather/today/Buffalo+NY+14222:4:US" from="yesterday_TimeNav_weather_nav" title="Today">Today
+</a>
+</li>
+<li>
+<a class="wx-vnav" href="/weather/hourbyhour/graph/Buffalo+NY+14222:4:US" from="yesterday_TimeNav_weather_nav" title="Hourly">Hourly
+</a>
+</li>
+<li>
+<a class="wx-vnav" href="/weather/tomorrow/Buffalo+NY+14222:4:US" from="yesterday_TimeNav_weather_nav" title="Tomorrow">Tomorrow
+</a>
+</li>
+<li>
+<a class="wx-vnav" href="/weather/weekend/Buffalo+NY+14222:4:US" from="yesterday_TimeNav_weather_nav" title="Weekend">Weekend
+</a>
+</li>
+<li>
+<a class="wx-vnav" href="/weather/5-day/Buffalo+NY+14222:4:US" from="yesterday_TimeNav_weather_nav" title="5 Day">5 Day
+</a>
+</li>
+<li>
+<a class="wx-vnav" href="/weather/tenday/Buffalo+NY+14222:4:US" from="yesterday_TimeNav_weather_nav" title="10 Day">10 Day
+</a>
+</li>
+<li>
+</li>
+<li>
+<a class="wx-vnav" href="/weather/monthly/14222" from="yesterday_TimeNav_weather_nav" title="Monthly">Monthly
+</a>
+</li>
+<li>
+<a class="wx-vnav" href="/weather/video-forecast/Buffalo+NY+14222:4:US" from="yesterday_TimeNav_weather_nav" title="Video Forecast">Video Forecast
+</a>
+</li>
+<li>
+<a class="wx-vnav" href="/weather/map/interactive/Buffalo+NY+14222:4:US" from="yesterday_TimeNav_weather_nav" title="Map">Map
+</a>
+</li>
+</ul>
+</div>
+<div class="wx-nav-ls-lifestyles wx-nav-ls wx-grid1of6 wx-module wx-ie7-zindex">
+<div class="wx-nav-ls-modal wx-hide">
+<div class="wx-spinner"></div>
+</div>
+<div class="wx-lifestyles"></div>
+<div class="wx-lifestyles-data" image_orientation="" data-moduleCode="ForecastNav" data-pageid="64272" data-fragid="lifestylenavlinks_lsrcommon" data-fragid-cons="lifestylemgmtlinks_lsrcommon" data-link-lifestyle-nav-title="Forecasts" data-link-lifestyle-console-title="Manage Forecasts" data-locid="14222"></div>
+</div>
+<div class="wx-module wx-mod1 wx-grid1of6 wx-media-top wx-top-stories  wx-cool-tools-nav">
+<div class="wx-inner">
+<div class="wx-content">
+<div class="wx-stories">
+<ul class="wx-links" data-vr-zone="yesterday_Links_wxtools">
+<p>Take the weather with me:</p>
+</ul>
+<div class="wx-promo-links wx-cond">
+<ul class="wx-links" data-vr-zone="">
+<li class="wx-icon wx-cond wx-desktop " data-vr-contentbox="">
+<a class="wx-icon wx-cond wx-desktop" href="/apps/desktop-weather" from="nav_primary_desktop app" title="Weather on my Desktop">Desktop App
+</a>
+</li>
+</div>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="wx-forecast-container">
+<div class="wx-yesterday wx-12hour wx-module wx-grid3of6 wx-weather wx-triggered">
+<h2>Yesterday's Weather</h2>
+<div class="wx-top-links">
+<div class="wx-prev-linker">
+<ul class="wx-links">
+<li class="wx-active">
+<a class="wx-active" href="javascript:void(0)" location="" from="yesterday_Yesterday_24hour_1" title="">Overview</a>
+</li>
+<li class="">
+<a class="" href="/weather/yesterday/hourly/Buffalo+NY+14222:4:US" location="" from="yesterday_Yesterday_24hour_2" title="">Hourly Details</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="wx-daypart">
+<div class="wx-12hr-titlewrap">
+<h3>
+Mar 16
+</h3>
+<div class="wx-label wx-day-label">
+Sun
+</div>
+</div>
+<div class="wx-conditions">
+<img class="wx-weather-icon" src="http://s.imwx.com/v.20131006.214956/img/wxicon/120/30.png" height="120" width="120" alt="Partly Cloudy" title="Partly Cloudy">
+<p class="wx-phrase">
+Partly Cloudy
+</p>
+<!-- DEV: add wx-clear for yesterday module only -->
+<div class="wx-clear"></div>
+<p class="wx-temp">
+22<sup>&deg;F</sup>
+<!-- DEV: Add timestamp -->
+<span class="wx-label">High<br>at
+12:05 am
+</span>
+</p>
+<!-- DEV: Add Lown Temp / Add class 'wx-temp-low' -->
+<p class="wx-temp wx-temp-low">
+13<sup>&deg;</sup>
+<!-- DEV: Add timestamp -->
+<span class="wx-label">Low<br>at
+10:25 pm
+</span>
+</p>
+</div>
+<div class="wx-details">
+<dl>
+<dt>Precip:</dt>
+<dd>
+0.00 in
+</dd>
+</dl>
+<dl class="twc-line-snow-box">
+<dt>Snowfall:</dt>
+<dd>0.1 in</dd>
+</dl>
+<dl>
+<dt>Past 7 Days Precip:</dt>
+<dd>0.65 in</dd>
+</dl>
+<dl>
+<dt>Month to Date Precip:</dt>
+<dd>0.70 in</dd>
+</dl>
+<dl>
+<dt class="wx-detail-separator">Wind Speed / Gusts:</dt>
+<dd>
+NNW at 17 mph
+gusting to
+21 mph
+</dd>
+</dl>
+<dl>
+<dt>Average High & Low:</dt>
+<dd>
+42<sup>&deg; </sup>/ 26<sup>&deg;</sup>
+</dd>
+</dl>
+<dl>
+<dt>Record High:</dt>
+<dd>
+70<sup>&deg;</sup> <span class="wx-year">(1990)</span>
+</dd>
+</dl>
+<dl>
+<dt>Record Low:</dt>
+<dd>
+1<sup>&deg;</sup> <span class="wx-year">(1885)</span>
+</dd>
+</dl>
+<dl>
+<dt class="wx-detail-separator">Monthly Avg Precip:</dt>
+<dd>2.87 in</dd>
+</dl>
+<dl>
+<dt>Sunrise:</dt>
+<dd>
+7:26 am
+</dd>
+</dl>
+<dl>
+<dt>Sunset:</dt>
+<dd>
+7:23 pm
+</dd>
+</dl>
+<dl>
+<dt>Moonset:</dt>
+<dd>
+7:08 am
+</dd>
+</dl>
+<dl>
+<dt>Moonrise:</dt>
+<dd>
+7:40 pm
+</dd>
+</dl>
+<dl>
+<dt>Moon Phase:</dt>
+<dd>
+<span class="wx-icon wx-moonphase wx-moon-14"></span>Full
+</dd>
+</dl>
+</div>
+</div>
+<div class="wx-pagination-linkers wx-bottom-links">
+<div class="wx-prev-linker">
+<ul class="wx-links">
+<li>
+<a class="" href="/weather/pastweather/Buffalo+NY+14222:4:US?startdate=20140315" from="nav_primary_mar 15" title="">Mar 15
+</a>
+</li>
+</ul>
+</div>
+<!-- $$$$$ Sun Mar 16 00:00:00 EDT 2014, Mon Mar 17 10:01:22 EDT 2014, Sun Mar 16 10:01:22 EDT 2014, 1 -->
+<div class="wx-next-linker"><ul class="wx-links">
+<li class="">
+<a class="" href="/weather/today/Buffalo+NY+14222:4:US" location="" from="yesterday_OverviewWeatherModule_Yesterday_1" title="">Today&#39;s Forecast</a>
+</li>
+</ul></div>
+</div>
+</div>
+<div class="wx-map wx-df-map wx-grid3of6 wx-module" data-region="ne" data-sizeClass="wx-grid3of6">
+<div class="wx-bg-container wx-grid3of6">
+<img class="wx-dfMap wx-img-back" src="" height="446" width="660" alt="">
+</div>
+<h3 class="">Past Weather Maps
+<span class="wx-icon wx-info wx-long"><i><!--[if lte IE 7]><span class="wx-pointer wx-wrap"></span><![endif]-->Use the dropdown menu at right to switch map type. Use the Day/Night buttons below to select timeframe.</i></span>
+</h3>
+<div class="wx-change-conditions wx-clickable">
+<p class="wx-conditions-selector wx-icon-img wx-arrow">Change Map</p>
+<ul class="wx-links">
+<li class="hi">
+High
+</li>
+<li class="lo">
+Low
+</li>
+<li class="precip">
+Precip
+</li>
+</ul>
+</div>
+<div class="wx-map-pane wx-grid3of6">
+<img class="wx-dfMap wx-img-main" src="" height="297" width="440" alt="">
+</div>
+<div class="wx-mapdf-links-bar" data-offset="0">
+<div>
+<ul class="wx-links">
+<li class="">
+<a class="" href="/weather/map/interactive/14222 " location="" from="yesterday_past_forecast_map_misc_1" title="">Local Radar</a>
+</li>
+<li class="">
+<a class="" href="/weather/map/classic/14222 " location="" from="yesterday_past_forecast_map_misc_2" title="">Classic Map</a>
+</li>
+<li class="">
+<a class="" href="/maps/maptype/currentweatherusnational/usactualhightemps_large.html" location="" from="yesterday_past_forecast_map_misc_3" title="">Nationwide High Temps</a>
+</li>
+<li class="">
+<a class="" href="/maps/maptype/currentweatherusnational/uscurrentweather_large.html" location="" from="yesterday_past_forecast_map_misc_4" title="">More Maps</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wx-module wx-grid3of6 wu-historical-weather">
+<div class="wx-inner-wrap">
+<div class="wx-datepicker-container">
+<h2 class="wx-title">
+<div class="wx-new">New</div>
+Historical Weather Since 1969
+</h2>
+<div class="wx-datepicker">
+<div class="wx-calendar-icon"></div>
+<input class="wx-date" value="December 23, 2012" type="text" id="dateInput" data-location="14222" data-dateFormat="MM d, yy" data-wuDateFormat="yy/m/d" data-minDate="1969/12/31" data-href="http://www.wunderground.com" readonly>
+<input class="wx-submit" value="View" type="submit" trackType="action" trackStr="wu_calendar_yesterday">
+</div>
+</div>
+<a class="wx-wu-logo" href="http://www.wunderground.com" trackstr="wunderground_logo" trackType="action" target="_blank">
+<span>Provided by</span>
+<img src="http://s.imwx.com/v.20130329.094103/img/partners/wunderground/wunderground_logo_84x50.png">
+</a>
+</div>
+</div>
+</div>
+<div class="wx-clear-content"></div>
+<div id="WX_Mid300" class="wx-module wx-gptADS">
+<span class="wx-adText">
+<script>document.write("Advertisement");</script>
+</span>
+<script>A21.notifyRegistered('WX_Mid300');</script>
+</div>
+<div class="wx-module wx-mod1 wx-grid2of6 wx-media-top" data-vr-zone="yesterday_Links_toppicks">
+<div class="wx-inner">
+<div class="wx-content">
+<h2>Today's Top Picks</h2>
+<div class="wx-content-below">
+<ul class="wx-links wx-stories-featured">
+<li class=" " data-vr-contentbox="">
+<a class="" href="/amhq" from="yesterday_Links_toppicks_links-toppicks" title="">New Morning Show, America's Morning Headquarters with Sam Champion</a>
+</li>
+</ul>
+<ul class="wx-links wx-stories-featured">
+<li class=" " data-vr-contentbox="">
+<a class="" href="/travel/commute?layers=driving. " from="yesterday_Links_toppicks_links-toppicks" title="">Commuter Forecast: Plan Your Trip!</a>
+</li>
+</ul>
+<ul class="wx-links wx-stories-featured">
+<li class=" " data-vr-contentbox="">
+<a class="" href="/news/commuter-forecast/50-worst-traffic-cities-us-photos-20140108" from="yesterday_Links_toppicks_links-toppicks" title="">Cities With the Worst Traffic </a>
+</li>
+</ul>
+<ul class="wx-links wx-stories-featured">
+<li class=" " data-vr-contentbox="">
+<a class="" href="/tv/tvshows/amhq/video/what-tries-to-lick-maria-larosa-45550?collid=/tv/shows/amhq" from="yesterday_Links_toppicks_links-toppicks" title="">WHAT Tried to Lick Maria LaRosa?</a>
+</li>
+</ul>
+<ul class="wx-links wx-stories-featured">
+<li class=" " data-vr-contentbox="">
+<a class="" href="http://www.weather.com/photos/collection/ugc/outdoor-journey" from="yesterday_Links_toppicks_links-toppicks" title="">Upload Photos of Your Outdoor Journey</a>
+</li>
+</ul>
+<ul class="wx-links wx-stories-featured">
+<li class=" " data-vr-contentbox="">
+<a class="" href="/tv/tvshows/coast-guard-cape-disappointment/vintage-us-coast-guard-photos-20140209" from="yesterday_Links_toppicks_links-toppicks" title="">Vintage U.S. Coast Guard (PHOTOS)</a>
+</li>
+</ul>
+<ul class="wx-links wx-stories-featured">
+<li class=" " data-vr-contentbox="">
+<a class="" href="/news/outdoor-journey/outdoor-journey-user-photos-20140228" from="yesterday_Links_toppicks_links-toppicks" title="">Your BEST "Outdoor Journey" Photos</a>
+</li>
+</ul>
+<ul class="wx-links wx-stories-featured">
+<li class=" " data-vr-contentbox="">
+<a class="" href="/travel/disney/walt-disney-world-resort/walt-disney-world-resort-then-and-now-photos-20130828" from="yesterday_Links_toppicks_links-toppicks" title="">Incredible Then & Now Photos of Disney World</a>
+</li>
+</ul>
+<ul class="wx-links wx-stories-featured">
+<li class=" " data-vr-contentbox="">
+<a class="" href="/news/science/noah/cities-greatest-flood-risk-20140310" from="yesterday_Links_toppicks_links-toppicks" title="">Do You Live in the City with the Greatest Flood Risk? </a>
+</li>
+</ul>
+<ul class="wx-links wx-stories-featured">
+<li class=" " data-vr-contentbox="">
+<a class="" href="/tv/tvshows/amhq/video/quotthe-status-quo-will-not-be-acceptable-45678?collid=/tv/shows/amhq" from="yesterday_Links_toppicks_links-toppicks" title="">"The Status Quo Will Not Be Acceptable"</a>
+</li>
+</ul>
+<ul class="wx-links wx-stories-featured">
+<li class=" " data-vr-contentbox="">
+<a class="" href="/tv/tvshows/amhq/video/watch-amhqs-hq-get-built-45652?collid=/tv/shows/amhq" from="yesterday_Links_toppicks_links-toppicks" title="">Timelapse: Watch as Sam Champion's New Home is Built!</a>
+</li>
+</ul>
+<ul class="wx-links wx-stories-featured">
+<li class=" " data-vr-contentbox="">
+<a class="" href="/news/science/noah/noahs-ark-replicas-kentucky-hong-kong-netherlands-20140306" from="yesterday_Links_toppicks_links-toppicks" title="">Noah's Ark Replicas You Have to See to Believe</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="wx-rail">
+<div id="WX_Top300Variable" class="wx-module wx-gptADS" style="display:none;">
+<span class="wx-adText">
+<script>document.write("Advertisement");</script>
+</span>
+<script>A21.notifyRegistered('WX_Top300Variable');</script>
+</div>
+<!-- Taboola widget -->
+<div id="taboola-grid-2x2" style="width:320px;clear:both;"></div>
+<script type="text/javascript">window._taboola=window._taboola||[];_taboola.push({mode:'grid-2x2',container:'taboola-grid-2x2',placement:'yesterday-forecast'});</script>
+<div class="wx-module wx-mod1 wx-corsican wx-2x155M wx-render-mode" id="mod_1" data-vr-zone="yesterday_Media_right">
+<div class="wx-inner" data-vr-contentbox=""></div>
+</div>
+<div id="hp_index_teaser_container">
+<div class="wx-free-title hp_alt_2">
+<h3>
+Seasonal Forecasts
+</h3>
+</div>
+<div class="wx-index-teaser wx-pollen wx-module" data-frag="frag_indexTeaserContainer_179766" data-from="yesterday" data-code="index_teaser_pollen" data-index="pollen" data-currLoc=true>
+<div class="wx-noloc-msg wx-hide">
+<div class="wx-teaser-module ">
+<div class="wx-index-teaser-box">
+<div class="wx-index-teaser-icon  wx-index-teaser-icon-pollen-grey"></div>
+<div class="wx-index-teaser-text">
+<div class="wx-index-teaser-box-top-border wx-index-teaser-box-top-border-grey">&nbsp</div>
+<div class="wx-index-teaser-description wx-index-teaser-color-grey">
+PollenCast
+</div>
+<div class="wx-index-teaser-deliniator"></div>
+<div class="wx-index-teaser-subtext wx-index-teaser-subtext-clickable">
+<div class="wx-pollen-lightboxTrigger" data-href="#wx-lbox-locsearch">Enter location for PollenCast</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wx-index-teaser wx-flu wx-module" data-frag="frag_indexTeaserContainer_171852" data-from="yesterday" data-code="index_teaser_flu" data-index="flu" data-currLoc=true>
+<div class="wx-noloc-msg wx-hide">
+<div class="wx-teaser-module ">
+<div class="wx-index-teaser-box">
+<div class="wx-index-teaser-icon  wx-index-teaser-icon-flu-grey"></div>
+<div class="wx-index-teaser-text">
+<div class="wx-index-teaser-box-top-border wx-index-teaser-box-top-border-grey">&nbsp</div>
+<div class="wx-index-teaser-description wx-index-teaser-color-grey">
+Flu
+</div>
+<div class="wx-index-teaser-deliniator"></div>
+<div class="wx-index-teaser-subtext wx-index-teaser-subtext-clickable">
+<div class="wx-flu-lightboxTrigger" data-href="#wx-lbox-locsearch">Enter location for state Flu report</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">var fby=fby||[];fby.push(['showTab',{id:'4018',position:'right',color:'#501FFF'}]);(function(){var f=document.createElement('script');f.type='text/javascript';f.async=true;f.src='//cdn.feedbackify.com/f.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(f,s);})();</script>
+<div id="WX_Tile1" class="wx-module wx-gptADS">
+<span class="wx-adText">
+<script>document.write("Advertisement");</script>
+</span>
+<script>A21.notifyRegistered('WX_Tile1');</script>
+</div>
+<div id="WX_Tile2" class="wx-module wx-gptADS">
+<span class="wx-adText">
+<script>document.write("Advertisement");</script>
+</span>
+<script>A21.notifyRegistered('WX_Tile2');</script>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div id="wx-bottom-wrap">
+<div id="wx-bottom-bg">
+<div id="wx-bottom-inner">
+<div id="WX_Hidden" class="wx-module wx-gptADS">
+<script>A21.notifyRegistered('WX_Hidden');</script>
+</div>
+<script async src="http://tags.crwdcntrl.net/c/2215/cc.js?ns=_cc2215" id="LOTCC_2215"></script>
+<script>(function($){$(document).ready(function(){var url1='http://ad.crwdcntrl.net/5/c=2215/pe=y/callback=?';$.ajax({url:url1,dataType:'jsonp',cache:true,type:'GET',timeout:5000,success:function(data){if(TWC.pco.get('user.lotame')==null||typeof(TWC.pco.get('user.lotame'))=="undefined"){TWC.pco.setUser('lotame',{});}
+var lot_tpid,lot_abbr,lot_id,lotame;lotame=TWC.pco.get('user.lotame');lot_tpid=lotame.lot_tpid;lot_abbr=lotame.lot_abbr;lot_id=lotame.lot_id;lotame.lot_tpid=data.Profile.tpid;var audienceLength=data.Profile.Audiences.Audience.length;if(audienceLength>0){lot_abbr='';lot_id='';for(var cci=0;cci<audienceLength;cci++){lot_abbr+=(data.Profile.Audiences.Audience[cci].abbr+(cci<audienceLength-1?',':''));lot_id+=(data.Profile.Audiences.Audience[cci].id+(cci<audienceLength-1?',':''));}
+lotame.lot_abbr=lot_abbr;lotame.lot_id=lot_id;}
+TWC.pco.setUser('lotame',lotame);if(_cc2215){if(TWC.pco.get("user")!=null&&typeof(TWC.pco.get("user"))!="undefined"&&TWC.pco.get("user.preferredLocation")){var u=checkCookie();_cc2215.add("age",u);_cc2215.add("gen",TWC.pco.get("user").gender);if(TWC.pco.get("metrics")!=null&&typeof(TWC.pco.get("metrics"))!="undefined"){_cc2215.add("seg","level1_"+TWC.pco.get("metrics").level1);_cc2215.add("seg","level2_"+TWC.pco.get("metrics").level2);_cc2215.add("seg","level3_"+TWC.pco.get("metrics").level3);_cc2215.add("seg","level4_"+TWC.pco.get("metrics").level4);}
+_cc2215.add("seg","claritas_"+TWC.pco.get("user").claritas);_cc2215.add("seg","preferredDeclaration_"+TWC.pco.get("user").preferredDeclaration);if(TWC.pco.get("user.hardDeclarations")!=null&&typeof(TWC.pco.get("user.hardDeclarations"))!="undefined"){if(TWC.pco.get("user").hardDeclarations.length>0){_cc2215.add("seg","hardDeclarations_"+TWC.pco.get("user").hardDeclarations[0]);}}
+if(TWC.pco.get("user.softDeclarations")!=null&&typeof(TWC.pco.get("user.softDeclarations"))!="undefined"){if(TWC.pco.get("user").softDeclarations.length>0){_cc2215.add("seg","softDeclarations_"+TWC.pco.get("user").softDeclarations[0]);}}
+_cc2215.add("seg","preferredLocation_locid_"+TWC.pco.get("user").preferredLocation.locid);_cc2215.add("seg","preferredLocation_dma_"+TWC.pco.get("user").preferredLocation.dma);if(TWC.pco.get("user.recentSearchLocations")!=null&&typeof(TWC.pco.get("user.recentSearchLocations"))!="undefined"){if(TWC.pco.get("user").recentSearchLocations.length>0){_cc2215.add("seg","recentSearchLocations_locid_"+TWC.pco.get("user").recentSearchLocations[0].locid);_cc2215.add("seg","recentSearchLocations_dma_"+TWC.pco.get("user").recentSearchLocations[0].dma);}}}
+if(TWC.pco.get("currloc")!=null&&typeof(TWC.pco.get("currloc"))!="undefined"){_cc2215.add("seg","zip_"+TWC.pco.get("currloc").zip);_cc2215.add("seg","locid_"+TWC.pco.get("currloc").locid);_cc2215.add("seg","dma_"+TWC.pco.get("currloc").dma);_cc2215.add("seg","claritas_"+TWC.pco.get("currloc").claritas);_cc2215.add("seg","state_"+TWC.pco.get("currloc").state);_cc2215.add("seg","locTimeZoneAbbr_"+TWC.pco.get("currloc").locTimeZoneAbbr);_cc2215.add("seg","city_"+TWC.pco.get("currloc").city);_cc2215.add("seg","country_"+TWC.pco.get("currloc").country);_cc2215.add("seg","loctype_"+TWC.pco.get("currloc").loctype);_cc2215.add("seg","locname_"+TWC.pco.get("currloc").locname);}
+if(TWC.pco.get("page")!=null&&typeof(TWC.pco.get("page"))!="undefined"){_cc2215.add("seg","lang_"+TWC.pco.get("page").lang);_cc2215.add("seg","ampm_"+TWC.pco.get("page").ampm);}
+if(TWC.pco.get("ad")!=null&&typeof(TWC.pco.get("ad"))!="undefined"){if(TWC.pco.get("ad.site")!=null&&typeof(TWC.pco.get("ad.site"))!="undefined"){_cc2215.add("seg","site_"+TWC.pco.get("ad").site);}
+if(TWC.pco.get("ad.pageIdCode")!=null&&typeof(TWC.pco.get("ad.pageIdCode"))!="undefined"){_cc2215.add("seg","pageIdCode_"+TWC.pco.get("ad").pageIdCode);}
+if(TWC.pco.get("ad.mode")!=null&&typeof(TWC.pco.get("ad.mode"))!="undefined"){_cc2215.add("seg","mode_"+TWC.pco.get("ad").mode);}
+if(TWC.pco.get("ad.pageDeclaration")!=null&&typeof(TWC.pco.get("ad.pageDeclaration"))!="undefined"){_cc2215.add("seg","pageDeclaration_"+TWC.pco.get("ad").pageDeclaration);}
+if(TWC.pco.get("ad.zone")!=null&&typeof(TWC.pco.get("ad.zone"))!="undefined"){_cc2215.add("seg","zone_"+TWC.pco.get("ad").zone);}}
+if(TWC.pco.get("wx")!=null&&typeof(TWC.pco.get("wx"))!="undefined"){_cc2215.add("seg","wind_"+TWC.pco.get("wx").wind);_cc2215.add("seg","hum_"+TWC.pco.get("wx").hum);_cc2215.add("seg","relativeHumidity_"+TWC.pco.get("wx").relativeHumidity);_cc2215.add("seg","cwsh_"+TWC.pco.get("wx").fcast.cwsh);_cc2215.add("seg","cwsl_"+TWC.pco.get("wx").fcast.cwsl);_cc2215.add("seg","fsnw_"+TWC.pco.get("wx").fcast.fsnw);_cc2215.add("seg","tempH_"+TWC.pco.get("wx").fcast.tempH);_cc2215.add("seg","tempHR_"+TWC.pco.get("wx").fcast.tempHR);_cc2215.add("seg","tempL_"+TWC.pco.get("wx").fcast.tempL);_cc2215.add("seg","tempLR_"+TWC.pco.get("wx").fcast.tempLR);_cc2215.add("seg","fc1_"+TWC.pco.get("wx").fcast.cond.fc1);_cc2215.add("seg","fc2_"+TWC.pco.get("wx").fcast.cond.fc2);_cc2215.add("seg","fc3_"+TWC.pco.get("wx").fcast.cond.fc3);_cc2215.add("seg","cond_"+TWC.pco.get("wx").cond);_cc2215.add("seg","snw_"+TWC.pco.get("wx").snw);_cc2215.add("seg","tempR_"+TWC.pco.get("wx").tempR);_cc2215.add("seg","windSpeed_"+TWC.pco.get("wx").windSpeed);_cc2215.add("seg","pollen_"+TWC.pco.get("wx").pollen);_cc2215.add("seg","baroTendency_"+TWC.pco.get("wx").baroTendency);_cc2215.add("seg","uv_"+TWC.pco.get("wx").uv);_cc2215.add("seg","uvIndex_"+TWC.pco.get("wx").uvIndex);_cc2215.add("seg","temp_"+TWC.pco.get("wx").temp);if(TWC.pco.get("wx.severe")!=null&&typeof(TWC.pco.get("wx.severe"))!="undefined"){if(TWC.pco.get("wx").severe.length>0){_cc2215.add("seg","severe_"+TWC.pco.get("wx").severe[0]);}}
+_cc2215.add("seg","realTemp_"+TWC.pco.get("wx").realTemp);}
+_cc2215.bcp();}},error:function(jqXHR,textStatus,errorThrown){}});});})(jQuery);function checkCookie()
+{var userpref=getCookie("UserPreferences");if(userpref!=null&&userpref!="")
+{var i=userpref.split("|");var d=new Date();var n=d.getFullYear();j=n-i[13].valueOf();if(j>1000){j="no_age_available";}}
+else
+{j="no_age_available";}
+return j;}
+function getCookie(c_name)
+{var i,x,y,ARRcookies=document.cookie.split(";");for(i=0;i<ARRcookies.length;i++)
+{x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name)
+{return unescape(y);}}}</script>
+<script type="text/javascript">//<![CDATA[
+var google_conversion_id=1069483923;var google_conversion_label="y3bYCMfJgQIQk4_8_QM";var google_custom_params=window.google_tag_params;var google_remarketing_only=true;
+//]]></script>
+<script async src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1069483923/?value=0&amp;label=y3bYCMfJgQIQk4_8_QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!--  key="/weather/yesterday-footer-static" -->
+<div id="wx-footer">
+<div class="wx-search">
+<form name="twc-google-web-search" action="/info/sitesearch">
+<input title="Enter Search Term" placeholder="Enter Search Term" type="text" name="q">
+<div class="wx-searchButton" name="googleSearchBtn" trackStr="footer_websearch" trackType="action" linkName="1">Search</div>
+<ul>
+<li><input type="radio" name="search" value="web"/>Search Web</li>
+<li><input type="radio" name="search" value="site" checked="true"/>Search Site</li>
+</ul>
+</form>
+</div>
+<div class="wx-links">
+<dl class="wx-1">
+<dt>
+Company
+<dd>
+<a class="" href="http://feedback.weather.com/knowledgebase" from="yesterday_footer_nav_sec_1" title="">Support</a>
+</dd>
+<dd>
+<a class="" href="http://feedback.weather.com/" from="yesterday_footer_nav_sec_2" title="">Feedback</a>
+</dd>
+<dd>
+<a class="" href="/careers/" from="yesterday_footer_nav_sec_3" title="">Careers</a>
+</dd>
+<dd>
+<a class="" href="http://press.weather.com/" target="_blank" vrtrackType="_vrtrack" from="yesterday_footer_nav_sec_4" title="">Press Room</a>
+</dd>
+<dd>
+<a class="" href="http://twcmediakit.com/" target="_blank" vrtrackType="_vrtrack" from="yesterday_footer_nav_sec_5" title="">Advertising</a>
+</dd>
+<dd>
+<a class="" href="/selfservice" from="yesterday_footer_nav_sec_6" title="">Advertise- Self Service</a>
+</dd>
+</dt>
+</dl>
+<dl class="wx-2">
+<dt>
+Explore
+<dd>
+<a class="" href="/news/why-we-name-winter-storms-20121001" from="yesterday_footer_nav_sec_1" title="">Naming Winter Storms</a>
+</dd>
+<dd>
+<a class="" href="/weather/hurricanecentral" from="yesterday_footer_nav_sec_2" title="">Hurricanes</a>
+</dd>
+<dd>
+<a class="" href="/news/weather-tornado/tornado-torcon-index" from="yesterday_footer_nav_sec_3" title="">TOR:CON</a>
+</dd>
+<dd>
+<a class="" href="/encyclopedia/" from="yesterday_footer_nav_sec_4" title="">Storm Encyclopedia</a>
+</dd>
+<dd>
+<a class="" href="/glossary/" from="yesterday_footer_nav_sec_5" title="">Weather Glossary</a>
+</dd>
+<dd>
+<a class="" href="/common/drilldown/US/top100.html" from="yesterday_footer_nav_sec_6" title="">Top 100 U.S. Cities</a>
+</dd>
+<dd>
+<a class="" href="/sitemap/" from="yesterday_footer_nav_sec_7" title="">Sitemap</a>
+</dd>
+</dt>
+</dl>
+<dl class="wx-3">
+<dt>
+Partners
+<dd>
+<a class="" href="/home-garden/home-depot-projects/" from="yesterday_footer_nav_sec_1" title="">The Home Depot Project of the Week</a>
+</dd>
+<dd>
+<a class="" href="http://www.webmd.com/allergies/default.htm" target="_blank" vrtrackType="_vrtrack" from="yesterday_footer_nav_sec_2" title="">WebMD Asthma & Allergy Center</a>
+</dd>
+<dd>
+<a class="" href="http://www.godaddy.com/default.aspx?isc=gdweather2" target="_blank" vrtrackType="_vrtrack" from="yesterday_footer_nav_sec_3" title="">Web Hosting at GoDaddy.com</a>
+</dd>
+<dd>
+<a class="" href="http://www.huffingtonpost.com/" target="_blank" vrtrackType="_vrtrack" from="yesterday_footer_nav_sec_4" title="">Breaking News</a>
+</dd>
+</dt>
+</dl>
+<dl class="wx-4">
+<dt>
+Our Products
+<dd>
+<a class="" href="https://registration.weather.com/ursa/alerts/step1?initAlerts=SVR" from="yesterday_footer_nav_sec_1" title="">Get Alerts</a>
+</dd>
+<dd>
+<a class="" href="/services/winapp.html" from="yesterday_footer_nav_sec_2" title="">Desktop Weather</a>
+</dd>
+<dd>
+<a class="" href="/mobile" from="yesterday_footer_nav_sec_3" title="">Mobile Products</a>
+</dd>
+<dd>
+<a class="" href="http://www.wunderground.com/weather/api/?ref=twc" target="_blank" vrtrackType="_vrtrack" from="yesterday_footer_nav_sec_4" title="">WEATHER&trade; API</a>
+</dd>
+<dd>
+<a class="" href="/services/screensaver/screensaver_email_lp.html" from="yesterday_footer_nav_sec_5" title="">Screensavers</a>
+</dd>
+</dt>
+</dl>
+<ul class="wx-social">
+<li>
+<!--page.fromString  -->
+<!--modulecode null_globalFooter -->
+<!--linkType null_globalFooter_footer_social_primary -->
+<!--linkNum null_globalFooter_footer_social_primary_1 -->
+<a class="wx-mobile" href="/services/mobilesplash.html" from="null_globalFooter_footer_social_primary_1" title="Weather on Mobile"><span>Weather on Mobile</span>Weather on Mobile</a>
+</li>
+<li>
+<!--page.fromString  -->
+<!--modulecode null_globalFooter -->
+<!--linkType null_globalFooter_footer_social_primary -->
+<!--linkNum null_globalFooter_footer_social_primary_2 -->
+<a class="wx-desktop" href="/services/desktop.html" from="null_globalFooter_footer_social_primary_2" title="Weather on your Desktop"><span>Download Desktop Weather</span>Download Desktop Weather</a>
+</li>
+<li>
+<!--page.fromString  -->
+<!--modulecode null_globalFooter -->
+<!--linkType null_globalFooter_footer_social_primary -->
+<!--linkNum null_globalFooter_footer_social_primary_3 -->
+<a class="wx-facebook" href="javascript:void(0);" winheight="835" winwidth="1000" lnk="http://www.facebook.com/TheWeatherChannel" from="null_globalFooter_footer_social_primary_3" title="Like us on Facebook"><span>Like us</span>Like us</a>
+</li>
+<li>
+<!--page.fromString  -->
+<!--modulecode null_globalFooter -->
+<!--linkType null_globalFooter_footer_social_primary -->
+<!--linkNum null_globalFooter_footer_social_primary_4 -->
+<a class="wx-twitter" href="javascript:void(0);" winheight="835" winwidth="1000" lnk="http://www.twitter.com/weatherchannel" from="null_globalFooter_footer_social_primary_4" title="Follow us on Twitter"><span>Follow us</span>Follow us</a>
+</li>
+<li>
+<!--page.fromString  -->
+<!--modulecode null_globalFooter -->
+<!--linkType null_globalFooter_footer_social_primary -->
+<!--linkNum null_globalFooter_footer_social_primary_5 -->
+<a class="wx-googleplus" href="javascript:void(0);" winheight="835" winwidth="1000" lnk="https://plus.google.com/102191030161937606640/posts" from="null_globalFooter_footer_social_primary_5" title="Add us on Google Plus"><span>Add us</span>Add us</a>
+</li>
+<li>
+<!--page.fromString  -->
+<!--modulecode null_globalFooter -->
+<!--linkType null_globalFooter_footer_social_primary -->
+<!--linkNum null_globalFooter_footer_social_primary_6 -->
+<a class="wx-youtube" href="javascript:void(0);" winheight="835" winwidth="1000" lnk="http://www.youtube.com/user/TheWeatherChannel/" from="null_globalFooter_footer_social_primary_6" title="Watch us on YouTube"><span>Watch us</span>Watch us</a>
+</li>
+</ul>
+</div>
+<div class="wx-legal">
+<p>&copy; 1995 - <script>document.write(new Date().getFullYear())</script>, The Weather Channel, LLC weather.com&reg; Licensed by TRUSTe</p>
+<ul>
+<li>
+<a class="" href="/common/home/legal.html" from="yesterday_globalFooter_links_footer_bottom_primary_1" title="">Terms of Use</a>
+</li>
+<li>
+<a class="" href="/common/home/privacy.html" from="yesterday_globalFooter_links_footer_bottom_primary_2" title="">Privacy Policy</a>
+</li>
+<li>
+<a class="" href="http://www.controlyourtv.org/Intro.aspx" from="yesterday_globalFooter_links_footer_bottom_primary_3" title="">Parental Controls</a>
+</li>
+<li>
+<a class="wx-adchoices" href="/services/ad-choices.html" from="yesterday_globalFooter_links_footer_bottom_primary_4" title="">Ad Choices</a>
+</li>
+<li>
+<a class="wx-georgia" href="http://www.cometourgeorgia.com/" target="_blank" vrtrackType="_vrtrack" from="yesterday_globalFooter_links_footer_bottom_primary_5" title="Georgia Org">Georgia Org</a>
+</li>
+<li>
+<a class="wx-accessibility" href="/services/essential-accessibility.html?role=&alt=EssentialAccessibility" target="_blank" vrtrackType="_vrtrack" from="yesterday_globalFooter_links_footer_bottom_primary_6" title="Accessibility Tools">Accessibility</a>
+</li>
+</ul>
+</div>
+</div> <!-- WX-FOOTER -->
+<script type="text/javascript">window._taboola=window._taboola||[];_taboola.push({category:'auto'});</script>
+<script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/theweatherchannel/loader.js"></script>
+</div>
+</div>
+</div>
+<div>
+</div>
+<div id="fb-root"></div>
+<script src="http://admin.brightcove.com/js/BrightcoveExperiences_all.js"></script>
+<script src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+<script src="http://d.imwx.com/jsRollup?rollup=/managedfe/js/TWC/util/social-loader.js,/managedfe/js/TWC/util/social-share.js,/managedfe/js/wx-metrics-ts2.js,/managedfe/js/TWC/util/facebook-breakingnow.js,/managedfe/js/TWC/class/Dialog.js,/managedfe/js/jquery/plugins/jquery.lazyload.min.js,/managedfe/js/TWC/util/foresee-loader.js,/managedfe/js/TWC/util/wx-theme.js,/managedfe/js/TWC/util/LocationTools.js,/managedfe/js/TWC/util/Components.js,/managedfe/js/TWC/util/wx-generic-locator.js,/managedfe/js/jquery/plugins/jquery.colorbox-min.js,/managedfe/js/TWC/util/ls-social-share.js,/managedfe/js/TWC/util/nav-ls-lifestyles.js,/managedfe/js/TWC/util/ie7-zindex.js,/managedfe/js/jquery/plugins/spin.min.js,/managedfe/js/TWC/class/impl/PastForecastMap.js,/managedfe/js/TWC/util/wu-calendar.js,/managedfe/js/jquery/jquery-ui-1.8.20.custom.min.js,/managedfe/js/TWC/util/Tools.js,/managedfe/js/TWC/class/Carousel.js,/managedfe/js/TWC/class/VideoPlayer.js,/managedfe/js/TWC/class/impl/init_videoplayer.js,/managedfe/js/TWC/util/corsican.js,/managedfe/js/TWC/util/wx-pagelet.js,/managedfe/js/TWC/util/indexTeaserContainer.js,/managedfe/js/TWC/util/footer.js"></script>
+</body>
+</html>
+
